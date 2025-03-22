@@ -87,7 +87,7 @@ const WelcomePage = () => {
         </Paragraph>
         
         <Paragraph>
-          Take your time, read each question carefully, and select the best answer.
+          You have 60 mins, read each question carefully, and select the best answer.
           Good luck!
         </Paragraph>
         

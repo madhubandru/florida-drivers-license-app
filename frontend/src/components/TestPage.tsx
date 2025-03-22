@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import styled from 'styled-components';
+import config from '../config';
 
 // Define interfaces for our data types
 interface Question {
@@ -314,7 +315,8 @@ const TestPage = () => {
   useEffect(() => {
     const fetchQuestions = async (): Promise<void> => {
       try {
-        const response = await axios.get('http://localhost:5000/api/questions');
+        // const response = await axios.get('http://localhost:5000/api/questions');
+        const response = await axios.get(`${config.apiUrl}/questions`);
         setQuestions(response.data);
         setQuestionIds(Object.keys(response.data));
         setLoading(false);
@@ -378,7 +380,8 @@ const TestPage = () => {
     if (!selectedAnswers[currentQuestionId]) return;
     
     try {
-      const response = await axios.post('http://localhost:5000/api/validate', {
+    //   const response = await axios.post('http://localhost:5000/api/validate', {
+      const response = await axios.post(`${config.apiUrl}/validate`, {
         questionId: currentQuestionId,
         selectedAnswer: selectedAnswers[currentQuestionId]
       });

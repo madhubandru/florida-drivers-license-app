@@ -191,10 +191,98 @@ const StyledParagraph = styled.p`
   margin-bottom: 10px;
 `;
 
+const ModalParagraph = styled.p`
+  margin-bottom: 15px;
+  color: #2c3e50;
+`;
+
 const StrongText = styled.strong`
   font-weight: 600;
 `;
 
+// Styled components
+const HomeButton = styled.button`
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background-color: #3498db;
+  color: white;
+  padding: 10px 15px;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  
+  &:hover {
+    background-color: #2980b9;
+  }
+`;
+
+const ConfirmationModal = styled.div`
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+`;
+
+const ModalContent = styled.div`
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  max-width: 400px;
+  text-align: center;
+`;
+
+const ModalTitle = styled.h3`
+  margin-bottom: 20px;
+  color: #2c3e50;
+`;
+
+const ButtonGroup = styled.div`
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 20px;
+`;
+
+const ModalButton = styled.button`
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.3s ease;
+`;
+
+const ContinueButton = styled(ModalButton)`
+  background-color: #3498db;
+  color: white;
+  
+  &:hover {
+    background-color: #2980b9;
+  }
+`;
+
+const ExitButton = styled(ModalButton)`
+  background-color: #e74c3c;
+  color: white;
+  
+  &:hover {
+    background-color: #c0392b;
+  }
+`;
+
+// TestPage component
 const TestPage = () => {
   const navigate = useNavigate();
   const [questions, setQuestions] = useState<Questions>({});
@@ -204,6 +292,7 @@ const TestPage = () => {
   const [answeredQuestions, setAnsweredQuestions] = useState<AnsweredQuestions>({});
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
+  const [showConfirmation, setShowConfirmation] = useState<boolean>(false);
 
   useEffect(() => {
     const fetchQuestions = async (): Promise<void> => {
@@ -276,6 +365,18 @@ const TestPage = () => {
     }
   };
 
+  const handleHomeClick = () => {
+    setShowConfirmation(true);
+  };
+  
+  const handleContinueTest = () => {
+    setShowConfirmation(false);
+  };
+  
+  const handleExitTest = () => {
+    navigate('/');
+  };
+
   if (loading) {
     return <LoadingMessage>Loading questions...</LoadingMessage>;
   }
@@ -295,64 +396,87 @@ const TestPage = () => {
   const answeredQuestion = answeredQuestions[currentQuestionId];
 
   return (
-    <TestContainer>
-      <QuestionCard>
-        <QuestionHeader>
-          <QuestionNumber>Question {currentQuestionIndex + 1}</QuestionNumber>
-          <Progress>{Object.keys(answeredQuestions).length} of {questionIds.length} answered</Progress>
-        </QuestionHeader>
-        
-        <QuestionText>{currentQuestion.question}</QuestionText>
-        
-        <OptionsList>
-          {currentQuestion.options.map((option, index) => (
-            <OptionItem
-              key={index}
-              onClick={() => handleOptionSelect(option)}
-              isSelected={selectedAnswer === option}
-              answered={isAnswered}
-              isCorrect={isAnswered && option === answeredQuestion?.correctAnswer}
-            >
-              {option}
-            </OptionItem>
-          ))}
-        </OptionsList>
-        
-        {isAnswered && (
-          <Explanation>
-            <StyledParagraph><StrongText>{answeredQuestion.isCorrect ? 'Correct!' : 'Incorrect!'}</StrongText></StyledParagraph>
-            <StyledParagraph>{answeredQuestion.explanation}</StyledParagraph>
-          </Explanation>
-        )}
-      </QuestionCard>
+    <>
+      <HomeButton onClick={handleHomeClick}>
+        🏠 Home
+      </HomeButton>
       
-      <ButtonContainer>
-        <PrevButton 
-          onClick={handlePrevQuestion}
-          disabled={currentQuestionIndex === 0}
-        >
-          Previous
-        </PrevButton>
+      <TestContainer>
+        <QuestionCard>
+          <QuestionHeader>
+            <QuestionNumber>Question {currentQuestionIndex + 1}</QuestionNumber>
+            <Progress>{Object.keys(answeredQuestions).length} of {questionIds.length} answered</Progress>
+          </QuestionHeader>
+          
+          <QuestionText>{currentQuestion.question}</QuestionText>
+          
+          <OptionsList>
+            {currentQuestion.options.map((option, index) => (
+              <OptionItem
+                key={index}
+                onClick={() => handleOptionSelect(option)}
+                isSelected={selectedAnswer === option}
+                answered={isAnswered}
+                isCorrect={isAnswered && option === answeredQuestion?.correctAnswer}
+              >
+                {option}
+              </OptionItem>
+            ))}
+          </OptionsList>
+          
+          {isAnswered && (
+            <Explanation>
+              <StyledParagraph><StrongText>{answeredQuestion.isCorrect ? 'Correct!' : 'Incorrect!'}</StrongText></StyledParagraph>
+              <StyledParagraph>{answeredQuestion.explanation}</StyledParagraph>
+            </Explanation>
+          )}
+        </QuestionCard>
         
-        {!isAnswered ? (
-          <SubmitButton 
-            onClick={handleSubmitAnswer}
-            disabled={!selectedAnswer}
+        <ButtonContainer>
+          <PrevButton 
+            onClick={handlePrevQuestion}
+            disabled={currentQuestionIndex === 0}
           >
-            Submit Answer
-          </SubmitButton>
-        ) : (
-          <NextButton 
-            answered={isAnswered}
-            onClick={handleNextQuestion}
-          >
-            {currentQuestionIndex === questionIds.length - 1 && Object.keys(answeredQuestions).length === questionIds.length 
-              ? 'See Results' 
-              : 'Next Question'}
-          </NextButton>
-        )}
-      </ButtonContainer>
-    </TestContainer>
+            Previous
+          </PrevButton>
+          
+          {!isAnswered ? (
+            <SubmitButton 
+              onClick={handleSubmitAnswer}
+              disabled={!selectedAnswer}
+            >
+              Submit Answer
+            </SubmitButton>
+          ) : (
+            <NextButton 
+              answered={isAnswered}
+              onClick={handleNextQuestion}
+            >
+              {currentQuestionIndex === questionIds.length - 1 && Object.keys(answeredQuestions).length === questionIds.length 
+                ? 'See Results' 
+                : 'Next Question'}
+            </NextButton>
+          )}
+        </ButtonContainer>
+      </TestContainer>
+
+      {showConfirmation && (
+        <ConfirmationModal>
+          <ModalContent>
+            <ModalTitle>Exit Test?</ModalTitle>
+            <ModalParagraph>Are you sure you want to exit the test? Your progress will not be saved.</ModalParagraph>
+            <ButtonGroup>
+              <ContinueButton onClick={handleContinueTest}>
+                Continue Test
+              </ContinueButton>
+              <ExitButton onClick={handleExitTest}>
+                Exit Test
+              </ExitButton>
+            </ButtonGroup>
+          </ModalContent>
+        </ConfirmationModal>
+      )}
+    </>
   );
 };
 

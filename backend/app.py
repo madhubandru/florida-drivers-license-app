@@ -1,10 +1,10 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, send_from_directory
 from flask_cors import CORS
 import json
 import os
 import random
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='../frontend/build', static_url_path='')
 CORS(app)  # Enable CORS for all routes
 
 # Load questions from JSON file
@@ -16,11 +16,20 @@ def load_questions():
         return json.load(f)
 
 # Add a root route for API information
-@app.route('/', methods=['GET'])
-def index():
+@app.route('/api', methods=['GET'])
+def api_index():
     return jsonify({
         'status': 'online'
     })
+
+# Serve React App
+@app.route('/', defaults={'path': ''})
+@app.route('/<path:path>')
+def serve(path):
+    if path != "" and os.path.exists(app.static_folder + '/' + path):
+        return send_from_directory(app.static_folder, path)
+    else:
+        return send_from_directory(app.static_folder, 'index.html')
 
 @app.route('/api/questions', methods=['GET'])
 def get_questions():

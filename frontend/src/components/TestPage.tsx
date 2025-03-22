@@ -3,6 +3,33 @@ import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import styled from 'styled-components';
 
+// Define interfaces for our data types
+interface Question {
+  question: string;
+  options: string[];
+  correct_answer: string;
+  explanation: string;
+}
+
+interface Questions {
+  [key: string]: Question;
+}
+
+interface AnsweredQuestion {
+  isCorrect: boolean;
+  correctAnswer: string;
+  explanation: string;
+}
+
+interface AnsweredQuestions {
+  [key: string]: AnsweredQuestion;
+}
+
+interface SelectedAnswers {
+  [key: string]: string;
+}
+
+// Styled components
 const TestContainer = styled.div`
   max-width: 800px;
   margin: 0 auto;
@@ -48,7 +75,13 @@ const OptionsList = styled.div`
   gap: 10px;
 `;
 
-const OptionItem = styled.div`
+interface OptionItemProps {
+  answered: boolean;
+  isSelected: boolean;
+  isCorrect: boolean;
+}
+
+const OptionItem = styled.div<OptionItemProps>`
   padding: 15px;
   border-radius: 8px;
   border: 1px solid #ddd;
@@ -112,7 +145,11 @@ const PrevButton = styled(Button)`
   }
 `;
 
-const NextButton = styled(Button)`
+interface NextButtonProps {
+  answered: boolean;
+}
+
+const NextButton = styled(Button)<NextButtonProps>`
   background-color: ${props => props.answered ? '#2ecc71' : '#3498db'};
   color: white;
   
@@ -130,18 +167,46 @@ const SubmitButton = styled(Button)`
   }
 `;
 
+// Add these new styled components
+const LoadingMessage = styled.div`
+  text-align: center;
+  padding: 20px;
+  font-size: 1.2rem;
+`;
+
+const ErrorMessage = styled.div`
+  text-align: center;
+  padding: 20px;
+  color: #e74c3c;
+  font-size: 1.2rem;
+`;
+
+const NoQuestionsMessage = styled.div`
+  text-align: center;
+  padding: 20px;
+  font-size: 1.2rem;
+`;
+
+const StyledParagraph = styled.p`
+  margin-bottom: 10px;
+`;
+
+const StrongText = styled.strong`
+  font-weight: 600;
+`;
+
 const TestPage = () => {
   const navigate = useNavigate();
-  const [questions, setQuestions] = useState({});
-  const [questionIds, setQuestionIds] = useState([]);
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
-  const [selectedAnswers, setSelectedAnswers] = useState({});
-  const [answeredQuestions, setAnsweredQuestions] = useState({});
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
+  const [questions, setQuestions] = useState<Questions>({});
+  const [questionIds, setQuestionIds] = useState<string[]>([]);
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState<number>(0);
+  const [selectedAnswers, setSelectedAnswers] = useState<SelectedAnswers>({});
+  const [answeredQuestions, setAnsweredQuestions] = useState<AnsweredQuestions>({});
+  const [loading, setLoading] = useState<boolean>(true);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    const fetchQuestions = async () => {
+    const fetchQuestions = async (): Promise<void> => {
       try {
         const response = await axios.get('http://localhost:5000/api/questions');
         setQuestions(response.data);
@@ -156,7 +221,7 @@ const TestPage = () => {
     fetchQuestions();
   }, []);
 
-  const handleOptionSelect = (option) => {
+  const handleOptionSelect = (option: string): void => {
     if (answeredQuestions[questionIds[currentQuestionIndex]]) return;
     
     setSelectedAnswers({
@@ -165,7 +230,7 @@ const TestPage = () => {
     });
   };
 
-  const handleSubmitAnswer = async () => {
+  const handleSubmitAnswer = async (): Promise<void> => {
     const currentQuestionId = questionIds[currentQuestionIndex];
     
     if (!selectedAnswers[currentQuestionId]) return;
@@ -189,7 +254,7 @@ const TestPage = () => {
     }
   };
 
-  const handleNextQuestion = () => {
+  const handleNextQuestion = (): void => {
     if (currentQuestionIndex < questionIds.length - 1) {
       setCurrentQuestionIndex(currentQuestionIndex + 1);
     } else if (Object.keys(answeredQuestions).length === questionIds.length) {
@@ -205,22 +270,22 @@ const TestPage = () => {
     }
   };
 
-  const handlePrevQuestion = () => {
+  const handlePrevQuestion = (): void => {
     if (currentQuestionIndex > 0) {
       setCurrentQuestionIndex(currentQuestionIndex - 1);
     }
   };
 
   if (loading) {
-    return <div>Loading questions...</div>;
+    return <LoadingMessage>Loading questions...</LoadingMessage>;
   }
 
   if (error) {
-    return <div>{error}</div>;
+    return <ErrorMessage>{error}</ErrorMessage>;
   }
 
   if (questionIds.length === 0) {
-    return <div>No questions available.</div>;
+    return <NoQuestionsMessage>No questions available.</NoQuestionsMessage>;
   }
 
   const currentQuestionId = questionIds[currentQuestionIndex];
@@ -246,7 +311,7 @@ const TestPage = () => {
               onClick={() => handleOptionSelect(option)}
               isSelected={selectedAnswer === option}
               answered={isAnswered}
-              isCorrect={isAnswered && option === answeredQuestion.correctAnswer}
+              isCorrect={isAnswered && option === answeredQuestion?.correctAnswer}
             >
               {option}
             </OptionItem>
@@ -255,8 +320,8 @@ const TestPage = () => {
         
         {isAnswered && (
           <Explanation>
-            <p><strong>{answeredQuestion.isCorrect ? 'Correct!' : 'Incorrect!'}</strong></p>
-            <p>{answeredQuestion.explanation}</p>
+            <StyledParagraph><StrongText>{answeredQuestion.isCorrect ? 'Correct!' : 'Incorrect!'}</StrongText></StyledParagraph>
+            <StyledParagraph>{answeredQuestion.explanation}</StyledParagraph>
           </Explanation>
         )}
       </QuestionCard>

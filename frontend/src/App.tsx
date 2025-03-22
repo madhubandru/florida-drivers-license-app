@@ -13,7 +13,7 @@ const AppContainer = styled.div`
   padding: 20px;
 `;
 
-function App() {
+const App = () => {
   return (
     <Router>
       <AppContainer>
@@ -25,6 +25,6 @@ function App() {
       </AppContainer>
     </Router>
   );
-}
+};
 
 export default App;

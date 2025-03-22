@@ -48,17 +48,22 @@ const Card = styled.div`
 
 const FloridaImage = styled.div`
   margin: 30px 0;
-  img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-  }
+`;
+
+const Image = styled.img`
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+`;
+
+const Paragraph = styled.p`
+  margin-bottom: 15px;
 `;
 
 const WelcomePage = () => {
   const navigate = useNavigate();
 
-  const handleStartTest = () => {
+  const handleStartTest = (): void => {
     navigate('/test');
   };
 
@@ -69,21 +74,21 @@ const WelcomePage = () => {
         <Subtitle>Prepare for your Florida DMV written test with our practice exam</Subtitle>
         
         <FloridaImage>
-          <img 
-            src="https://www.flhsmv.gov/wp-content/uploads/logo-flhsmv.png" 
+          <Image 
+            src="/images/FLHSMV_Logo_Color_Full.png" 
             alt="Florida Highway Safety and Motor Vehicles" 
           />
         </FloridaImage>
         
-        <p>
-          This practice test contains 50 random questions from the Florida Driver's Handbook.
+        <Paragraph>
+          This practice test contains 50 questions from the Florida Driver's Handbook.
           You need to answer at least 40 questions correctly to pass.
-        </p>
+        </Paragraph>
         
-        <p>
+        <Paragraph>
           Take your time, read each question carefully, and select the best answer.
           Good luck!
-        </p>
+        </Paragraph>
         
         <StartButton onClick={handleStartTest}>
           Start Practice Test

@@ -1,28 +1,38 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 import json
-import random
 import os
+import random
 
 app = Flask(__name__)
-CORS(app)
+CORS(app)  # Enable CORS for all routes
 
-# Path to the JSON data file
-data_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'florida_dmv_questions.json')
-
-# Load the questions data
+# Load questions from JSON file
 def load_questions():
-    with open(data_file, 'r') as f:
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    data_path = os.path.join(script_dir, 'data', 'florida_dmv_questions.json')
+    
+    with open(data_path, 'r') as f:
         return json.load(f)
+
+# Add a root route for API information
+@app.route('/', methods=['GET'])
+def index():
+    return jsonify({
+        'status': 'online'
+    })
 
 @app.route('/api/questions', methods=['GET'])
 def get_questions():
-    questions_data = load_questions()
+    questions = load_questions()
     
     # Select 50 random questions
-    question_ids = random.sample(list(questions_data.keys()), 50)
-    selected_questions = {qid: questions_data[qid] for qid in question_ids}
+    question_ids = list(questions.keys())
+    if len(question_ids) > 50:
+        question_ids = random.sample(question_ids, 50)
     
+    # Create a subset of questions
+    selected_questions = {qid: questions[qid] for qid in question_ids}
     return jsonify(selected_questions)
 
 @app.route('/api/validate', methods=['POST'])
@@ -31,16 +41,19 @@ def validate_answer():
     question_id = data.get('questionId')
     selected_answer = data.get('selectedAnswer')
     
-    questions_data = load_questions()
-    correct_answer = questions_data[question_id]['correct_answer']
-    explanation = questions_data[question_id]['explanation']
+    questions = load_questions()
+    question = questions.get(question_id)
     
+    if not question:
+        return jsonify({'error': 'Question not found'}), 404
+    
+    correct_answer = question['correct_answer']
     is_correct = selected_answer == correct_answer
     
     return jsonify({
         'isCorrect': is_correct,
         'correctAnswer': correct_answer,
-        'explanation': explanation
+        'explanation': question['explanation']
     })
 
 if __name__ == '__main__':

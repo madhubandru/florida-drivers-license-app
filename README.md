@@ -19,6 +19,7 @@ The project follows a client-server architecture:
   - Results page: Displays test performance and pass/fail status
   - Home page: Entry point with test instructions
 ### Backend 🔧
+- Flask server serving the React frontend as static files
 - API endpoints for:
   - Retrieving test questions
   - Validating user answers
@@ -37,6 +38,8 @@ The project follows a client-server architecture:
 ### Prerequisites
 - Node.js (v14 or higher)
 - npm or yarn
+- Python 3.7 or higher
+- pip
 ### Installation
 1. Clone the repository
 ```bash
@@ -53,19 +56,16 @@ npm install
 
 # Backend
 cd ../backend
-npm install
+pip install -r requirements.txt
  ```
 
 3. Start the development servers
 ```bash
-# Backend (from backend directory)
-npm start
-
-# Frontend (from frontend directory)
-npm start
+# From backend directory
+python app.py
  ```
 
-4. Open your browser and navigate to http://localhost:3000
+4. Open your browser and navigate to http://localhost:5000
 ## Usage 📋
 1. From the home page, read the instructions and click "Start Test"
 2. Answer each question by selecting one of the provided options
@@ -94,4 +94,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments 🙏
 - Florida Department of Highway Safety and Motor Vehicles for reference materials
 - React and TypeScript communities for excellent documentation
+- Flask community for excellent documentation
 - This application is for educational purposes only and is not affiliated with the Florida Department of Highway Safety and Motor Vehicles.

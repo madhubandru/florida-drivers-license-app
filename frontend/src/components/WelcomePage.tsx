@@ -1,6 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import styled from 'styled-components';
+import floridaLogo from '../assets/images/FLHSMV_Logo_2.png';
 
 const WelcomeContainer = styled.div`
   text-align: center;
@@ -75,7 +76,7 @@ const WelcomePage = () => {
         
         <FloridaImage>
           <Image 
-            src="/images/FLHSMV_Logo_Color_Full.png" 
+            src={floridaLogo} 
             alt="Florida Highway Safety and Motor Vehicles" 
           />
         </FloridaImage>

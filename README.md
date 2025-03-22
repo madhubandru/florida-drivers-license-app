@@ -94,4 +94,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments 🙏
 - Florida Department of Highway Safety and Motor Vehicles for reference materials
 - React and TypeScript communities for excellent documentation
-This application is for educational purposes only and is not affiliated with the Florida Department of Highway Safety and Motor Vehicles.
+- This application is for educational purposes only and is not affiliated with the Florida Department of Highway Safety and Motor Vehicles.

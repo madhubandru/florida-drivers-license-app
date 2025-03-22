@@ -74,8 +74,8 @@ const ResultsPage = () => {
   const state = location.state as LocationState;
   
   // Default values in case state is not provided
-  const totalQuestions = state?.totalQuestions || 50;
-  const correctAnswers = state?.correctAnswers || 0;
+  const totalQuestions = state?.totalQuestions || 5; //MBQuestionsControl
+  const correctAnswers = state?.correctAnswers || 0; //MBQuestionsControl
   const isPassed = state?.isPassed || false;
   
   const percentage = Math.round((correctAnswers / totalQuestions) * 100);

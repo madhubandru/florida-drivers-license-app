@@ -353,7 +353,7 @@ const TestPage = () => {
         state: { 
           totalQuestions: questionIds.length,
           correctAnswers,
-          isPassed: correctAnswers >= 40
+          isPassed: correctAnswers >= 3 //MBQuestionsControl
         } 
       });
     }

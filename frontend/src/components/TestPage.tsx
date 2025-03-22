@@ -406,7 +406,7 @@ const TestPage = () => {
         state: { 
           totalQuestions: questionIds.length,
           correctAnswers,
-          isPassed: correctAnswers >= 3 //MBQuestionsControl
+          isPassed: correctAnswers >= 40 //MBQuestionsControl
         } 
       });
     }

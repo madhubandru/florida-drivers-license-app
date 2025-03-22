@@ -28,8 +28,8 @@ def get_questions():
     
     # Select 50 random questions
     question_ids = list(questions.keys())
-    if len(question_ids) > 5: ##MBQuestionsControl
-        question_ids = random.sample(question_ids, 5) ##MBQuestionsControl
+    if len(question_ids) > 50: ##MBQuestionsControl
+        question_ids = random.sample(question_ids, 50) ##MBQuestionsControl
     
     # Create a subset of questions
     selected_questions = {qid: questions[qid] for qid in question_ids}

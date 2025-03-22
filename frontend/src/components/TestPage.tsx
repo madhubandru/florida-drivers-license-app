@@ -282,6 +282,21 @@ const ExitButton = styled(ModalButton)`
   }
 `;
 
+// Add this new styled component for the timer
+const TimerContainer = styled.div`
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background-color: #3498db;
+  color: white;
+  padding: 10px 15px;
+  font-size: 1rem;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+`;
+
 // TestPage component
 const TestPage = () => {
   const navigate = useNavigate();
@@ -293,6 +308,8 @@ const TestPage = () => {
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
   const [showConfirmation, setShowConfirmation] = useState<boolean>(false);
+  // Add state for timer
+  const [timeRemaining, setTimeRemaining] = useState<number>(60 * 60); // 60 minutes in seconds
 
   useEffect(() => {
     const fetchQuestions = async (): Promise<void> => {
@@ -309,6 +326,42 @@ const TestPage = () => {
 
     fetchQuestions();
   }, []);
+
+  // Add new useEffect for timer
+  useEffect(() => {
+    // Only start the timer when questions are loaded
+    if (questionIds.length > 0) {
+      const timer = setInterval(() => {
+        setTimeRemaining(prevTime => {
+          if (prevTime <= 1) {
+            clearInterval(timer);
+            // Time's up - submit the test automatically
+            const correctAnswers = Object.values(answeredQuestions).filter(a => a.isCorrect).length;
+            navigate('/results', { 
+              state: { 
+                totalQuestions: questionIds.length,
+                correctAnswers,
+                isPassed: correctAnswers >= 3,
+                timeExpired: true
+              } 
+            });
+            return 0;
+          }
+          return prevTime - 1;
+        });
+      }, 1000);
+
+      // Clean up the timer when component unmounts
+      return () => clearInterval(timer);
+    }
+  }, [questionIds.length, answeredQuestions, navigate]);
+
+  // Format time function
+  const formatTime = (seconds: number): string => {
+    const minutes = Math.floor(seconds / 60);
+    const remainingSeconds = seconds % 60;
+    return `${minutes}:${remainingSeconds < 10 ? '0' : ''}${remainingSeconds}`;
+  };
 
   const handleOptionSelect = (option: string): void => {
     if (answeredQuestions[questionIds[currentQuestionIndex]]) return;
@@ -400,6 +453,11 @@ const TestPage = () => {
       <HomeButton onClick={handleHomeClick}>
         🏠 Home
       </HomeButton>
+      
+      {/* Add timer */}
+      <TimerContainer>
+        ⏱️ Time Remaining: {formatTime(timeRemaining)}
+      </TimerContainer>
       
       <TestContainer>
         <QuestionCard>

@@ -1,0 +1,2202 @@
+{
+  "1": {
+    "question": "To check your blind spot when changing lanes to the left, you should glance:",
+    "options": [
+      "Over your right shoulder",
+      "At your side mirror",
+      "Over your left shoulder",
+      "At your rearview mirror"
+    ],
+    "correct_answer": "Over your left shoulder",
+    "explanation": "When changing lanes to the left, you should always check your blind spot by glancing over your left shoulder. While mirrors are helpful, they don't show the entire area around your vehicle. The blind spot is an area that cannot be seen in your mirrors, and the only way to check it properly is by physically turning your head to look. This quick check helps ensure there are no vehicles in the space you're about to move into, preventing potential collisions."
+  },
+  "2": {
+    "question": "If an officer is directing traffic at a working traffic light, drivers should:",
+    "options": [
+      "Follow the directions indicated by the traffic light",
+      "Follow the directions given by the officer",
+      "Honk at the officer",
+      "Check to see what the cars next to them are doing"
+    ],
+    "correct_answer": "Follow the directions given by the officer",
+    "explanation": "When a police officer is directing traffic, you must follow their directions even if they conflict with existing traffic signals, signs, or laws. An officer's hand signals and directions take precedence over traffic lights or signs."
+  },
+  "3": {
+    "question": "Highway markings:",
+    "options": [
+      "Are usually not important",
+      "Are only found in construction zones",
+      "Provide information for drivers",
+      "Are usually red and blue in color"
+    ],
+    "correct_answer": "Provide information for drivers",
+    "explanation": "Highway markings provide important information for drivers about lane usage, directions, warnings, and other traffic conditions. They work together with traffic signs and signals to communicate rules, warnings, and guidance to drivers."
+  },
+  "4": {
+    "question": "The effect that lack of sleep has on your safe driving ability is the same as:",
+    "options": [
+      "The effect that alcohol has",
+      "The effect that amphetamines have",
+      "The effect that anger has",
+      "The effect that driving with teenagers has"
+    ],
+    "correct_answer": "The effect that alcohol has",
+    "explanation": "Driving while drowsy or fatigued can impair your driving ability similarly to alcohol. Studies show that being awake for 18 hours produces impairment equal to a blood alcohol concentration (BAC) of 0.05%, and being awake for 24 hours is comparable to a BAC of 0.10%, which is above the legal limit in all states."
+  },
+  "5": {
+    "question": "A person who drives much slower than the speed limit:",
+    "options": [
+      "Is a very safe driver",
+      "Always has the right-of-way",
+      "Should not let following cars pass",
+      "May create a dangerous driving environment"
+    ],
+    "correct_answer": "May create a dangerous driving environment",
+    "explanation": "Driving significantly below the speed limit can be as dangerous as speeding. It can disrupt the normal flow of traffic, cause congestion, and lead to aggressive driving behaviors from other motorists. In Florida, driving too slowly can be considered a moving violation if it impedes the normal flow of traffic."
+  },
+  "6": {
+    "question": "A solid white line down the center of a two-lane road indicates:",
+    "options": [
+      "Lanes are moving in opposite directions and drivers are not permitted to pass",
+      "Lanes are moving in opposite directions and drivers are permitted to pass when it is safe to do so",
+      "Lanes are moving in the same direction and drivers are not permitted to pass",
+      "Lanes are moving in the same direction and drivers are permitted to pass when it is safe to do so"
+    ],
+    "correct_answer": "Lanes are moving in opposite directions and drivers are not permitted to pass",
+    "explanation": "A solid white line down the center of a two-lane road indicates that the lanes are moving in opposite directions and passing is prohibited. This marking is used in areas where passing would be dangerous, such as curves, hills, or intersections."
+  },
+  "7": {
+    "question": "When driving in fog, you should use your:",
+    "options": [
+      "High beam headlights",
+      "Low beam headlights",
+      "Parking lights only",
+      "Hazard lights while moving"
+    ],
+    "correct_answer": "Low beam headlights",
+    "explanation": "When driving in fog, you should use your low beam headlights. High beams reflect off the fog and create glare, making it harder to see. Low beams direct the light down toward the road, improving visibility in foggy conditions."
+  },
+  "8": {
+    "question": "The blood alcohol level for drivers under 21 years of age in Florida is:",
+    "options": [
+      "0.08%",
+      "0.05%",
+      "0.02%",
+      "0.00%"
+    ],
+    "correct_answer": "0.02%",
+    "explanation": "In Florida, drivers under 21 years of age are subject to a 'Zero Tolerance' law, which sets the legal blood alcohol concentration (BAC) limit at 0.02%. This is stricter than the 0.08% limit for drivers 21 and older, reflecting the state's commitment to preventing underage drinking and driving."
+  },
+  "9": {
+    "question": "When approaching a railroad crossing with flashing signals, you should:",
+    "options": [
+      "Speed up to beat the train",
+      "Stop only if you see a train coming",
+      "Slow down and proceed with caution if you don't see a train",
+      "Stop completely and only proceed when the signals stop flashing"
+    ],
+    "correct_answer": "Stop completely and only proceed when the signals stop flashing",
+    "explanation": "When approaching a railroad crossing with flashing signals, you must stop at least 15 feet from the nearest rail and not proceed until the signals stop flashing. Flashing signals indicate that a train is approaching, and it's illegal and extremely dangerous to ignore these warnings."
+  },
+  "10": {
+    "question": "In Florida, what is the minimum age to obtain a learner's license?",
+    "options": [
+      "14 years old",
+      "15 years old",
+      "16 years old",
+      "18 years old"
+    ],
+    "correct_answer": "15 years old",
+    "explanation": "In Florida, the minimum age to obtain a learner's license is 15 years old. To be eligible, applicants must pass vision, road signs, and road rules tests, complete a Traffic Law and Substance Abuse Education Course, and have parental consent if under 18."
+  },
+  "11": {
+    "question": "When making a right turn on a red light, you must:",
+    "options": [
+      "Come to a complete stop first and yield to all other traffic",
+      "Slow down and yield to traffic coming from the left only",
+      "Signal and turn without stopping",
+      "Wait for a green light before turning"
+    ],
+    "correct_answer": "Come to a complete stop first and yield to all other traffic",
+    "explanation": "When making a right turn on a red light in Florida, you must first come to a complete stop, check for traffic and pedestrians, and yield the right-of-way to all other traffic before proceeding with your turn. Right turns on red are permitted unless a posted sign prohibits it."
+  },
+  "12": {
+    "question": "What does a flashing yellow traffic light mean?",
+    "options": [
+      "Stop completely before proceeding",
+      "Slow down and proceed with caution",
+      "Prepare to stop because the light will soon be red",
+      "The traffic light is out of order"
+    ],
+    "correct_answer": "Slow down and proceed with caution",
+    "explanation": "A flashing yellow traffic light means you should slow down and proceed with caution. Unlike a flashing red light, which requires a complete stop, a flashing yellow indicates a warning to be alert and cautious while proceeding through the intersection."
+  },
+  "13": {
+    "question": "In Florida, how long must a person with a learner's license hold it before applying for a regular Class E license?",
+    "options": [
+      "6 months",
+      "12 months",
+      "18 months",
+      "24 months"
+    ],
+    "correct_answer": "12 months",
+    "explanation": "In Florida, a person with a learner's license must hold it for at least 12 months or until their 18th birthday, whichever comes first, before applying for a regular Class E license. Additionally, they must have no traffic convictions during this period."
+  },
+  "14": {
+    "question": "What is the proper action to take when an emergency vehicle with flashing lights is approaching?",
+    "options": [
+      "Speed up to get out of the way",
+      "Pull over to the right edge of the road and stop",
+      "Continue driving in your lane at the same speed",
+      "Change lanes and slow down"
+    ],
+    "correct_answer": "Pull over to the right edge of the road and stop",
+    "explanation": "When an emergency vehicle with flashing lights is approaching, you must pull over to the right edge of the road and stop until the emergency vehicle has passed. This is required by Florida law and helps ensure that emergency vehicles can respond quickly to urgent situations."
+  },
+  "15": {
+    "question": "What does a solid yellow line in the center of the road mean?",
+    "options": [
+      "Passing is permitted when safe",
+      "Passing is permitted only during daylight hours",
+      "Passing is not permitted",
+      "The road is a one-way street"
+    ],
+    "correct_answer": "Passing is not permitted",
+    "explanation": "A solid yellow line in the center of the road indicates that passing is not permitted from that lane. This marking is used in areas where passing would be dangerous due to limited visibility or other hazards."
+  },
+  "16": {
+    "question": "What is the speed limit in a residential area in Florida unless otherwise posted?",
+    "options": [
+      "20 mph",
+      "25 mph",
+      "30 mph",
+      "35 mph"
+    ],
+    "correct_answer": "30 mph",
+    "explanation": "The default speed limit in a residential area in Florida is 30 mph unless otherwise posted. However, drivers should always be prepared to adjust their speed based on road conditions, weather, and the presence of pedestrians, especially in residential neighborhoods."
+  },
+  "17": {
+    "question": "When driving in heavy rain, your vehicle can hydroplane. To avoid hydroplaning you should:",
+    "options": [
+      "Drive faster to get through the water quickly",
+      "Apply your brakes firmly",
+      "Reduce your speed",
+      "Turn on your hazard lights"
+    ],
+    "correct_answer": "Reduce your speed",
+    "explanation": "To avoid hydroplaning in heavy rain, you should reduce your speed. Hydroplaning occurs when your tires lose contact with the road surface due to water buildup. Slowing down allows your tires to maintain better contact with the road and reduces the risk of losing control of your vehicle."
+  },
+  "18": {
+    "question": "What should you do if your vehicle starts to skid?",
+    "options": [
+      "Brake hard and turn the wheel in the opposite direction of the skid",
+      "Accelerate and turn the wheel in the direction of the skid",
+      "Take your foot off the accelerator and steer in the direction you want to go",
+      "Pull the emergency brake immediately"
+    ],
+    "correct_answer": "Take your foot off the accelerator and steer in the direction you want to go",
+    "explanation": "If your vehicle starts to skid, you should take your foot off the accelerator (don't brake) and steer in the direction you want the front of the vehicle to go. This technique, often called 'steering into the skid,' helps you regain control of your vehicle by allowing the tires to regain traction."
+  },
+  "19": {
+    "question": "What does a diamond-shaped sign indicate?",
+    "options": [
+      "Stop ahead",
+      "School zone",
+      "Warning",
+      "Construction zone"
+    ],
+    "correct_answer": "Warning",
+    "explanation": "Diamond-shaped signs are warning signs that alert drivers to potential hazards or changing road conditions ahead. These yellow signs provide advance notice of situations that might require you to slow down or take specific actions to navigate safely."
+  },
+  "20": {
+    "question": "When parking uphill with a curb, which way should you turn your front wheels?",
+    "options": [
+      "Away from the curb",
+      "Toward the curb",
+      "Parallel to the curb",
+      "It doesn't matter"
+    ],
+    "correct_answer": "Away from the curb",
+    "explanation": "When parking uphill with a curb, you should turn your front wheels away from the curb (toward the street). This way, if your brakes fail, your vehicle will roll back against the curb, preventing it from rolling into traffic."
+  },
+  "21": {
+    "question": "What is the meaning of a red traffic signal light?",
+    "options": [
+      "Slow down and proceed with caution",
+      "Stop completely until the light turns green",
+      "Stop only if other vehicles are approaching",
+      "Reduce speed and check for pedestrians before proceeding"
+    ],
+    "correct_answer": "Stop completely until the light turns green",
+    "explanation": "A red traffic signal light means you must stop completely and remain stopped until the light turns green. The only exception is making a right turn on red after coming to a complete stop and yielding to all other traffic and pedestrians, unless a sign prohibits it."
+  },
+  "22": {
+    "question": "What is the proper following distance in normal driving conditions?",
+    "options": [
+      "1 second behind the vehicle ahead",
+      "2 seconds behind the vehicle ahead",
+      "3-4 seconds behind the vehicle ahead",
+      "5-6 seconds behind the vehicle ahead"
+    ],
+    "correct_answer": "3-4 seconds behind the vehicle ahead",
+    "explanation": "In normal driving conditions, you should maintain a following distance of 3-4 seconds behind the vehicle ahead. This provides enough time to react and stop safely if the vehicle in front of you stops suddenly. In adverse conditions like rain or fog, you should increase this distance."
+  },
+  "23": {
+    "question": "What does a yellow traffic signal light mean?",
+    "options": [
+      "Speed up to clear the intersection",
+      "The light will soon turn red, so prepare to stop",
+      "Pedestrians have the right of way",
+      "The intersection is clear in all directions"
+    ],
+    "correct_answer": "The light will soon turn red, so prepare to stop",
+    "explanation": "A yellow traffic signal light warns that the light will soon turn red. You should prepare to stop safely. If you're too close to the intersection to stop safely when the light turns yellow, proceed through cautiously."
+  },
+  "24": {
+    "question": "What is the purpose of an HOV (High Occupancy Vehicle) lane?",
+    "options": [
+      "To reduce traffic congestion by encouraging carpooling",
+      "To provide a lane for emergency vehicles only",
+      "To separate commercial vehicles from passenger vehicles",
+      "To provide a lane for vehicles traveling below the speed limit"
+    ],
+    "correct_answer": "To reduce traffic congestion by encouraging carpooling",
+    "explanation": "HOV (High Occupancy Vehicle) lanes are designed to reduce traffic congestion by encouraging carpooling. These lanes are reserved for vehicles with a minimum number of occupants (usually two or more), which helps decrease the total number of vehicles on the road during peak travel times."
+  },
+  "25": {
+    "question": "What should you do if you miss your exit on a highway?",
+    "options": [
+      "Stop and back up on the shoulder",
+      "Make a U-turn using the median",
+      "Continue to the next exit",
+      "Stop and ask another driver for directions"
+    ],
+    "correct_answer": "Continue to the next exit",
+    "explanation": "If you miss your exit on a highway, you should continue to the next exit. Never stop, back up, or try to turn around on a highway, as these actions are extremely dangerous and illegal. Proceed to the next exit, then re-enter the highway in the opposite direction if necessary."
+  },
+  "26": {
+    "question": "What does a flashing red traffic light mean?",
+    "options": [
+      "Come to a complete stop, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Stop only if other vehicles are present",
+      "The traffic light is malfunctioning"
+    ],
+    "correct_answer": "Come to a complete stop, then proceed when safe",
+    "explanation": "A flashing red traffic light means you must come to a complete stop, yield to all other traffic and pedestrians, and then proceed when it is safe to do so. It functions the same way as a stop sign."
+  },
+  "27": {
+    "question": "When is it legal to drive in the left lane of a multi-lane highway?",
+    "options": [
+      "Only when passing another vehicle",
+      "Whenever you are driving the speed limit",
+      "When preparing for a left turn or when passing",
+      "At any time as long as you're not impeding traffic"
+    ],
+    "correct_answer": "When preparing for a left turn or when passing",
+    "explanation": "In Florida, it is legal to drive in the left lane of a multi-lane highway when you are preparing for a left turn or when passing another vehicle. Florida law requires drivers to drive in the right lane except when overtaking and passing another vehicle, when preparing for a left turn, or when the right lane is closed to traffic."
+  },
+  "28": {
+    "question": "What is the meaning of a white rectangular sign?",
+    "options": [
+      "Warning",
+      "Regulatory",
+      "Guide or information",
+      "Construction"
+    ],
+    "correct_answer": "Regulatory",
+    "explanation": "White rectangular signs are regulatory signs that inform drivers of traffic laws and regulations. These signs indicate requirements such as speed limits, turn restrictions, lane usage, and other rules that must be obeyed."
+  },
+  "29": {
+    "question": "What should you do when you see a pedestrian with a white cane at a crosswalk?",
+    "options": [
+      "Honk to let them know you're approaching",
+      "Proceed normally as they can see your vehicle",
+      "Stop completely and wait until they have crossed",
+      "Slow down but continue driving"
+    ],
+    "correct_answer": "Stop completely and wait until they have crossed",
+    "explanation": "When you see a pedestrian with a white cane at a crosswalk, you must stop completely and wait until they have crossed. A white cane indicates that the pedestrian is blind or visually impaired. Florida law gives these pedestrians the right-of-way at all times."
+  },
+  "30": {
+    "question": "What is the purpose of rumble strips on highways?",
+    "options": [
+      "To provide traction in wet weather",
+      "To alert drivers that they are leaving their lane",
+      "To reduce highway noise",
+      "To mark construction zones"
+    ],
+    "correct_answer": "To alert drivers that they are leaving their lane",
+    "explanation": "Rumble strips are grooves or raised patterns on highways designed to alert drivers through sound and vibration that they are leaving their lane or approaching a hazardous area. They help prevent run-off-road crashes, especially those caused by drowsy or distracted driving."
+  },
+  "31": {
+    "question": "What does a green arrow signal mean?",
+    "options": [
+      "Yield to oncoming traffic before turning",
+      "You may proceed in the direction of the arrow",
+      "Prepare to stop as the light will soon change",
+      "Pedestrians have the right of way"
+    ],
+    "correct_answer": "You may proceed in the direction of the arrow",
+    "explanation": "A green arrow signal means you may proceed in the direction the arrow is pointing. Oncoming traffic is stopped by a red light, so you have a protected turn and the right-of-way. However, you must still yield to any pedestrians or vehicles already in the intersection."
+  },
+  "32": {
+    "question": "What is the purpose of a median on a highway?",
+    "options": [
+      "To provide a place for disabled vehicles",
+      "To separate traffic moving in opposite directions",
+      "To provide a place for police to monitor traffic",
+      "To collect rainwater from the road surface"
+    ],
+    "correct_answer": "To separate traffic moving in opposite directions",
+    "explanation": "The primary purpose of a median on a highway is to separate traffic moving in opposite directions. This physical barrier helps prevent head-on collisions and provides a recovery area for vehicles that might otherwise cross into oncoming traffic."
+  },
+  "33": {
+    "question": "What should you do if your vehicle's right wheels leave the pavement?",
+    "options": [
+      "Brake hard immediately",
+      "Accelerate and steer sharply back onto the road",
+      "Take your foot off the accelerator and steer straight while slowing down",
+      "Turn the steering wheel quickly to the left"
+    ],
+    "correct_answer": "Take your foot off the accelerator and steer straight while slowing down",
+    "explanation": "If your vehicle's right wheels leave the pavement, you should take your foot off the accelerator, hold the steering wheel firmly, and steer straight while gradually slowing down. Once you've reduced your speed sufficiently, gently steer back onto the pavement when it's safe to do so. Avoid braking hard or jerking the wheel, as these actions can cause you to lose control."
+  },
+  "34": {
+    "question": "What does a sign with the letters 'DIP' indicate?",
+    "options": [
+      "A place where you can dispose of trash",
+      "A diplomatic building ahead",
+      "A low place in the road",
+      "A deer crossing area"
+    ],
+    "correct_answer": "A low place in the road",
+    "explanation": "A sign with the letters 'DIP' indicates a low place in the road ahead. This warns drivers to slow down as they approach the dip to avoid losing control of their vehicle or bottoming out, which could damage the vehicle's undercarriage."
+  },
+  "35": {
+    "question": "What is the meaning of a pentagonal-shaped sign?",
+    "options": [
+      "Railroad crossing",
+      "School zone or school crossing",
+      "Construction zone",
+      "Hospital zone"
+    ],
+    "correct_answer": "School zone or school crossing",
+    "explanation": "A pentagonal (five-sided) shaped sign indicates a school zone or school crossing. These signs are typically yellow or fluorescent yellow-green and alert drivers to areas where school children may be present, signaling the need for extra caution and reduced speeds."
+  },
+  "36": {
+    "question": "What is the first thing you should do if you are involved in a traffic crash?",
+    "options": [
+      "Call your insurance company",
+      "Exchange information with the other driver",
+      "Stop immediately and check for injuries",
+      "Move your vehicle to avoid blocking traffic"
+    ],
+    "correct_answer": "Stop immediately and check for injuries",
+    "explanation": "If you are involved in a traffic crash, the first thing you should do is stop immediately and check for injuries. Florida law requires drivers to stop at the scene of an accident, render reasonable assistance to anyone injured, and exchange information. Leaving the scene of an accident is a serious offense."
+  },
+  "37": {
+    "question": "What does a sign with the letters 'RR' and an 'X' indicate?",
+    "options": [
+      "River crossing",
+      "Railroad crossing",
+      "Recreation area",
+      "Restricted road"
+    ],
+    "correct_answer": "Railroad crossing",
+    "explanation": "A sign with the letters 'RR' and an 'X' indicates a railroad crossing ahead. This warning sign alerts drivers to prepare to stop if a train is approaching. Always look and listen for trains before crossing railroad tracks, even if there are no flashing lights or gates."
+  },
+  "38": {
+    "question": "What is the meaning of a double solid yellow line in the center of the road?",
+    "options": [
+      "Passing is permitted when safe",
+      "Passing is permitted only during daylight hours",
+      "No passing is permitted from either direction",
+      "The road is a one-way street"
+    ],
+    "correct_answer": "No passing is permitted from either direction",
+    "explanation": "A double solid yellow line in the center of the road indicates that no passing is permitted from either direction. These markings are used in areas where passing would be especially dangerous, such as curves, hills, or intersections."
+  },
+  "39": {
+    "question": "What should you do if your brakes fail while driving?",
+    "options": [
+      "Pump the brake pedal rapidly",
+      "Shift to a lower gear and use the parking brake gradually",
+      "Turn off the engine immediately",
+      "Open the door and jump out"
+    ],
+    "correct_answer": "Shift to a lower gear and use the parking brake gradually",
+    "explanation": "If your brakes fail while driving, you should shift to a lower gear to use the engine's braking power and apply the parking brake gradually (not suddenly, which could cause a skid). Pump the brake pedal if you have conventional brakes; if you have anti-lock brakes, apply steady pressure. Look for an escape route or area where you can slow down safely."
+  },
+  "40": {
+    "question": "What does a yellow X signal over a lane mean?",
+    "options": [
+      "The lane is reserved for carpools",
+      "You should prepare to vacate the lane",
+      "The lane is for emergency vehicles only",
+      "The lane is closed to all traffic"
+    ],
+    "correct_answer": "You should prepare to vacate the lane",
+    "explanation": "A yellow X signal over a lane means you should prepare to vacate that lane because it will soon be closed or the direction of traffic will change. This signal is often used on reversible lanes or in areas with variable lane control to manage traffic flow during peak hours."
+  },
+  "41": {
+    "question": "What is the purpose of an acceleration lane?",
+    "options": [
+      "To allow vehicles to slow down before exiting a highway",
+      "To provide a place for disabled vehicles",
+      "To allow vehicles to increase speed before merging with traffic",
+      "To provide a lane for emergency vehicles"
+    ],
+    "correct_answer": "To allow vehicles to increase speed before merging with traffic",
+    "explanation": "An acceleration lane is designed to allow vehicles entering a highway to increase their speed before merging with traffic. This helps create a smoother, safer merge by giving drivers the opportunity to match their speed with the flow of traffic before entering the main travel lanes."
+  },
+  "42": {
+    "question": "What does a sign with the letters 'PED XING' indicate?",
+    "options": [
+      "Pedestrian crossing",
+      "Pedal crossing for bicycles",
+      "Pedestrian exit",
+      "Pedestrian expressway"
+    ],
+    "correct_answer": "Pedestrian crossing",
+    "explanation": "A sign with the letters 'PED XING' indicates a pedestrian crossing area. This warning sign alerts drivers to be prepared to stop for pedestrians who may be crossing the road. Pedestrians have the right-of-way in marked crosswalks, and drivers must yield to them."
+  },
+  "43": {
+    "question": "What is the meaning of a blue sign with a wheelchair symbol?",
+    "options": [
+      "Hospital ahead",
+      "Accessible parking or facilities for persons with disabilities",
+      "Physical therapy center",
+      "Wheelchair repair shop"
+    ],
+    "correct_answer": "Accessible parking or facilities for persons with disabilities",
+    "explanation": "A blue sign with a wheelchair symbol indicates accessible parking or facilities for persons with disabilities. These spaces are reserved for vehicles displaying a valid disabled parking permit or license plate, and parking in these spaces without proper authorization is illegal."
+  },
+  "44": {
+    "question": "What should you do if you are driving and a tire suddenly blows out?",
+    "options": [
+      "Brake hard immediately",
+      "Grip the steering wheel firmly, ease off the accelerator, and pull off the road when safe",
+      "Turn on your hazard lights and stop immediately",
+      "Accelerate to maintain control"
+    ],
+    "correct_answer": "Grip the steering wheel firmly, ease off the accelerator, and pull off the road when safe",
+    "explanation": "If a tire suddenly blows out while driving, you should grip the steering wheel firmly, ease off the accelerator (don't brake suddenly), and allow the vehicle to slow down gradually. Once you have the vehicle under control, pull off the road to a safe location. Sudden braking or steering can cause you to lose control of the vehicle."
+  },
+  "45": {
+    "question": "What does a triangular-shaped sign indicate?",
+    "options": [
+      "School zone",
+      "Yield",
+      "Railroad crossing",
+      "Construction zone"
+    ],
+    "correct_answer": "Yield",
+    "explanation": "A triangular-shaped sign (pointing downward) indicates a yield situation. This sign tells drivers to slow down, prepare to stop if necessary, and yield the right-of-way to vehicles and pedestrians in or approaching the intersection."
+  },
+  "46": {
+    "question": "What is the meaning of a sign with the letters 'SOFT SHOULDER'?",
+    "options": [
+      "The shoulder is under construction",
+      "The shoulder is made of a soft material that may not support a vehicle's weight",
+      "The shoulder is reserved for emergency vehicles",
+      "The shoulder has been recently paved"
+    ],
+    "correct_answer": "The shoulder is made of a soft material that may not support a vehicle's weight",
+    "explanation": "A sign with the letters 'SOFT SHOULDER' warns that the shoulder of the road is made of a soft material (like gravel or dirt) that may not support a vehicle's weight. This cautions drivers against driving or stopping on the shoulder, as vehicles could become stuck or lose control."
+  },
+  "47": {
+    "question": "What is the purpose of a deceleration lane?",
+    "options": [
+      "To allow vehicles to increase speed before merging with traffic",
+      "To provide a place for disabled vehicles",
+      "To allow vehicles to slow down before exiting a highway",
+      "To provide a lane for emergency vehicles"
+    ],
+    "correct_answer": "To allow vehicles to slow down before exiting a highway",
+    "explanation": "A deceleration lane is designed to allow vehicles to slow down before exiting a highway without impeding the flow of through traffic. This helps maintain safety and efficiency by providing a dedicated space for speed reduction before taking an exit."
+  },
+  "48": {
+    "question": "What does a sign with the letters 'WRONG WAY' indicate?",
+    "options": [
+      "You have made a wrong turn and are traveling against traffic",
+      "The road ahead is closed due to construction",
+      "You are approaching a one-way street",
+      "The road ahead has sharp turns"
+    ],
+    "correct_answer": "You have made a wrong turn and are traveling against traffic",
+    "explanation": "A sign with the letters 'WRONG WAY' indicates that you have made a wrong turn and are traveling against the flow of traffic. If you see this sign, you should immediately stop, turn around, and proceed in the correct direction. Driving the wrong way is extremely dangerous and can lead to head-on collisions."
+  },
+  "49": {
+    "question": "What is the meaning of a sign with the letters 'DO NOT PASS'?",
+    "options": [
+      "You may not overtake and pass the vehicle ahead",
+      "Do not pass your driver's license to another person",
+      "Do not pass through the intersection",
+      "Do not pass this sign without stopping"
+    ],
+    "correct_answer": "You may not overtake and pass the vehicle ahead",
+    "explanation": "A sign with the letters 'DO NOT PASS' indicates that you may not overtake and pass the vehicle ahead. These signs are placed in areas where passing would be dangerous, such as curves, hills, or intersections, and are often accompanied by solid yellow lines on the pavement."
+  },
+  "50": {
+    "question": "What should you do if you are involved in a crash with no injuries but with vehicle damage?",
+    "options": [
+      "Leave the scene and report it later",
+      "Move the vehicles out of traffic if possible and report the crash",
+      "Wait for police to arrive before moving the vehicles",
+      "Exchange information only if the damage exceeds $1000"
+    ],
+    "correct_answer": "Move the vehicles out of traffic if possible and report the crash",
+    "explanation": "If you are involved in a crash with no injuries but with vehicle damage, Florida law requires you to move the vehicles out of traffic if possible to prevent secondary crashes. You must then exchange information with the other driver(s) and report the crash to law enforcement if the damage appears to be $500 or more."
+  },
+  "51": {
+    "question": "What is the meaning of a sign with the letters 'MERGE'?",
+    "options": [
+      "Traffic from another road will be joining your road",
+      "The road ahead will split into two roads",
+      "You must allow other vehicles to pass",
+      "The number of lanes will increase"
+    ],
+    "correct_answer": "Traffic from another road will be joining your road",
+    "explanation": "A sign with the letters 'MERGE' indicates that traffic from another road will be joining your road. This warns drivers to be prepared for other vehicles entering their traffic lane and to adjust their speed and position accordingly to allow for a safe merge."
+  },
+  "52": {
+    "question": "What is the meaning of a sign with the letters 'LOW CLEARANCE'?",
+    "options": [
+      "The road ahead has poor visibility",
+      "The bridge or overpass ahead has limited height clearance",
+      "The road ahead has a low speed limit",
+      "The road ahead has a low traffic volume"
+    ],
+    "correct_answer": "The bridge or overpass ahead has limited height clearance",
+    "explanation": "A sign with the letters 'LOW CLEARANCE' indicates that the bridge or overpass ahead has limited height clearance. This warning is crucial for drivers of tall vehicles, such as trucks, RVs, or vehicles with cargo on the roof, as attempting to pass under a structure with insufficient clearance can result in serious damage and hazardous conditions."
+  },
+  "53": {
+    "question": "What is the meaning of a sign with the letters 'SPEED ZONE AHEAD'?",
+    "options": [
+      "You are approaching an area with a different speed limit",
+      "You are entering a high-speed highway",
+      "You are approaching a radar speed trap",
+      "You are entering a racing zone"
+    ],
+    "correct_answer": "You are approaching an area with a different speed limit",
+    "explanation": "A sign with the letters 'SPEED ZONE AHEAD' indicates that you are approaching an area with a different speed limit. This gives drivers advance notice to adjust their speed accordingly before entering the new speed zone, which may have either a higher or lower limit than the current zone."
+  },
+  "54": {
+    "question": "What is the meaning of a sign with the letters 'LANE ENDS MERGE LEFT'?",
+    "options": [
+      "The left lane will end, and traffic must merge right",
+      "The right lane will end, and traffic must merge left",
+      "All traffic must move to the left lane",
+      "The center lane will end"
+    ],
+    "correct_answer": "The right lane will end, and traffic must merge left",
+    "explanation": "A sign with the letters 'LANE ENDS MERGE LEFT' indicates that the right lane will end ahead, and traffic in that lane must merge left. This warning gives drivers time to prepare for the lane reduction and merge safely before the lane ends."
+  },
+  "55": {
+    "question": "What is the meaning of a sign with the letters 'SLIPPERY WHEN WET'?",
+    "options": [
+      "The road is always slippery",
+      "The road surface becomes slippery during wet conditions",
+      "The road has been recently paved",
+      "The road has a steep grade"
+    ],
+    "correct_answer": "The road surface becomes slippery during wet conditions",
+    "explanation": "A sign with the letters 'SLIPPERY WHEN WET' indicates that the road surface becomes particularly slippery during wet conditions. This warns drivers to reduce speed and exercise extra caution when the road is wet due to rain, snow, or ice, as traction is reduced and stopping distances increase."
+  },
+  "56": {
+    "question": "What is the meaning of a sign with the letters 'NO U TURN'?",
+    "options": [
+      "U-turns are permitted only during daylight hours",
+      "U-turns are not permitted at this location",
+      "U-turns are permitted only for emergency vehicles",
+      "U-turns are permitted only when no other vehicles are present"
+    ],
+    "correct_answer": "U-turns are not permitted at this location",
+    "explanation": "A sign with the letters 'NO U TURN' indicates that U-turns are not permitted at this location. These signs are placed at intersections or locations where making a U-turn would be dangerous or disrupt traffic flow. Drivers must continue and find another safe and legal way to change direction."
+  },
+  "57": {
+    "question": "What is the meaning of a sign with the letters 'BUMP'?",
+    "options": [
+      "There is a raised area on the road surface ahead",
+      "There is a pothole in the road ahead",
+      "There is a speed bump in a parking area ahead",
+      "There is a railroad crossing ahead"
+    ],
+    "correct_answer": "There is a raised area on the road surface ahead",
+    "explanation": "A sign with the letters 'BUMP' indicates that there is a raised area on the road surface ahead. This warns drivers to slow down to maintain control of their vehicle and avoid discomfort or damage that could result from hitting the bump at high speed."
+  },
+  "58": {
+    "question": "What is the meaning of a sign with the letters 'DIVIDED HIGHWAY'?",
+    "options": [
+      "The highway ahead has a median separating traffic moving in opposite directions",
+      "The highway ahead splits into two separate roads",
+      "The highway ahead has alternating one-way sections",
+      "The highway ahead is shared by vehicles and pedestrians"
+    ],
+    "correct_answer": "The highway ahead has a median separating traffic moving in opposite directions",
+    "explanation": "A sign with the letters 'DIVIDED HIGHWAY' indicates that the highway ahead has a median or other physical barrier separating traffic moving in opposite directions. This informs drivers of a change in road configuration and alerts them to adjust their driving accordingly."
+  },
+  "59": {
+    "question": "What is the meaning of a sign with the letters 'ROAD NARROWS'?",
+    "options": [
+      "The road ahead becomes narrower",
+      "The lanes ahead become wider",
+      "The road ahead has sharp turns",
+      "The road ahead has a steep grade"
+    ],
+    "correct_answer": "The road ahead becomes narrower",
+    "explanation": "A sign with the letters 'ROAD NARROWS' indicates that the road ahead becomes narrower, with less width for vehicles to travel. This warns drivers to be prepared for the reduced road width, which may require extra caution, especially when meeting oncoming traffic or passing other vehicles."
+  },
+  "60": {
+    "question": "What is the meaning of a sign with the letters 'CROSS TRAFFIC DOES NOT STOP'?",
+    "options": [
+      "All traffic must stop at the intersection",
+      "Only cross traffic must stop at the intersection",
+      "You must stop, but cross traffic is not required to stop",
+      "No one is required to stop at the intersection"
+    ],
+    "correct_answer": "You must stop, but cross traffic is not required to stop",
+    "explanation": "A sign with the letters 'CROSS TRAFFIC DOES NOT STOP' indicates that while you must stop at the intersection (usually due to a stop sign), vehicles on the crossing road are not required to stop. This warns drivers to be especially cautious and to ensure the way is clear before proceeding through the intersection."
+  },
+  "61": {
+    "question": "Florida Driver License Question #61",
+    "options": [
+      "Option A for question 61",
+      "Option B for question 61",
+      "Option C for question 61",
+      "Option D for question 61"
+    ],
+    "correct_answer": "Option C for question 61",
+    "explanation": "This is the explanation for the correct answer to question #61. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "62": {
+    "question": "Florida Driver License Question #62",
+    "options": [
+      "Option A for question 62",
+      "Option B for question 62",
+      "Option C for question 62",
+      "Option D for question 62"
+    ],
+    "correct_answer": "Option C for question 62",
+    "explanation": "This is the explanation for the correct answer to question #62. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "63": {
+    "question": "Florida Driver License Question #63",
+    "options": [
+      "Option A for question 63",
+      "Option B for question 63",
+      "Option C for question 63",
+      "Option D for question 63"
+    ],
+    "correct_answer": "Option C for question 63",
+    "explanation": "This is the explanation for the correct answer to question #63. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "64": {
+    "question": "Florida Driver License Question #64",
+    "options": [
+      "Option A for question 64",
+      "Option B for question 64",
+      "Option C for question 64",
+      "Option D for question 64"
+    ],
+    "correct_answer": "Option C for question 64",
+    "explanation": "This is the explanation for the correct answer to question #64. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "65": {
+    "question": "Florida Driver License Question #65",
+    "options": [
+      "Option A for question 65",
+      "Option B for question 65",
+      "Option C for question 65",
+      "Option D for question 65"
+    ],
+    "correct_answer": "Option C for question 65",
+    "explanation": "This is the explanation for the correct answer to question #65. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "66": {
+    "question": "Florida Driver License Question #66",
+    "options": [
+      "Option A for question 66",
+      "Option B for question 66",
+      "Option C for question 66",
+      "Option D for question 66"
+    ],
+    "correct_answer": "Option C for question 66",
+    "explanation": "This is the explanation for the correct answer to question #66. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "67": {
+    "question": "Florida Driver License Question #67",
+    "options": [
+      "Option A for question 67",
+      "Option B for question 67",
+      "Option C for question 67",
+      "Option D for question 67"
+    ],
+    "correct_answer": "Option C for question 67",
+    "explanation": "This is the explanation for the correct answer to question #67. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "68": {
+    "question": "Florida Driver License Question #68",
+    "options": [
+      "Option A for question 68",
+      "Option B for question 68",
+      "Option C for question 68",
+      "Option D for question 68"
+    ],
+    "correct_answer": "Option C for question 68",
+    "explanation": "This is the explanation for the correct answer to question #68. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "69": {
+    "question": "Florida Driver License Question #69",
+    "options": [
+      "Option A for question 69",
+      "Option B for question 69",
+      "Option C for question 69",
+      "Option D for question 69"
+    ],
+    "correct_answer": "Option C for question 69",
+    "explanation": "This is the explanation for the correct answer to question #69. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "70": {
+    "question": "Florida Driver License Question #70",
+    "options": [
+      "Option A for question 70",
+      "Option B for question 70",
+      "Option C for question 70",
+      "Option D for question 70"
+    ],
+    "correct_answer": "Option C for question 70",
+    "explanation": "This is the explanation for the correct answer to question #70. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "71": {
+    "question": "Florida Driver License Question #71",
+    "options": [
+      "Option A for question 71",
+      "Option B for question 71",
+      "Option C for question 71",
+      "Option D for question 71"
+    ],
+    "correct_answer": "Option C for question 71",
+    "explanation": "This is the explanation for the correct answer to question #71. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "72": {
+    "question": "Florida Driver License Question #72",
+    "options": [
+      "Option A for question 72",
+      "Option B for question 72",
+      "Option C for question 72",
+      "Option D for question 72"
+    ],
+    "correct_answer": "Option C for question 72",
+    "explanation": "This is the explanation for the correct answer to question #72. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "73": {
+    "question": "Florida Driver License Question #73",
+    "options": [
+      "Option A for question 73",
+      "Option B for question 73",
+      "Option C for question 73",
+      "Option D for question 73"
+    ],
+    "correct_answer": "Option C for question 73",
+    "explanation": "This is the explanation for the correct answer to question #73. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "74": {
+    "question": "Florida Driver License Question #74",
+    "options": [
+      "Option A for question 74",
+      "Option B for question 74",
+      "Option C for question 74",
+      "Option D for question 74"
+    ],
+    "correct_answer": "Option C for question 74",
+    "explanation": "This is the explanation for the correct answer to question #74. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "75": {
+    "question": "Florida Driver License Question #75",
+    "options": [
+      "Option A for question 75",
+      "Option B for question 75",
+      "Option C for question 75",
+      "Option D for question 75"
+    ],
+    "correct_answer": "Option C for question 75",
+    "explanation": "This is the explanation for the correct answer to question #75. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "76": {
+    "question": "Florida Driver License Question #76",
+    "options": [
+      "Option A for question 76",
+      "Option B for question 76",
+      "Option C for question 76",
+      "Option D for question 76"
+    ],
+    "correct_answer": "Option C for question 76",
+    "explanation": "This is the explanation for the correct answer to question #76. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "77": {
+    "question": "Florida Driver License Question #77",
+    "options": [
+      "Option A for question 77",
+      "Option B for question 77",
+      "Option C for question 77",
+      "Option D for question 77"
+    ],
+    "correct_answer": "Option C for question 77",
+    "explanation": "This is the explanation for the correct answer to question #77. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "78": {
+    "question": "Florida Driver License Question #78",
+    "options": [
+      "Option A for question 78",
+      "Option B for question 78",
+      "Option C for question 78",
+      "Option D for question 78"
+    ],
+    "correct_answer": "Option C for question 78",
+    "explanation": "This is the explanation for the correct answer to question #78. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "79": {
+    "question": "Florida Driver License Question #79",
+    "options": [
+      "Option A for question 79",
+      "Option B for question 79",
+      "Option C for question 79",
+      "Option D for question 79"
+    ],
+    "correct_answer": "Option C for question 79",
+    "explanation": "This is the explanation for the correct answer to question #79. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "80": {
+    "question": "Florida Driver License Question #80",
+    "options": [
+      "Option A for question 80",
+      "Option B for question 80",
+      "Option C for question 80",
+      "Option D for question 80"
+    ],
+    "correct_answer": "Option C for question 80",
+    "explanation": "This is the explanation for the correct answer to question #80. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "81": {
+    "question": "Florida Driver License Question #81",
+    "options": [
+      "Option A for question 81",
+      "Option B for question 81",
+      "Option C for question 81",
+      "Option D for question 81"
+    ],
+    "correct_answer": "Option C for question 81",
+    "explanation": "This is the explanation for the correct answer to question #81. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "82": {
+    "question": "Florida Driver License Question #82",
+    "options": [
+      "Option A for question 82",
+      "Option B for question 82",
+      "Option C for question 82",
+      "Option D for question 82"
+    ],
+    "correct_answer": "Option C for question 82",
+    "explanation": "This is the explanation for the correct answer to question #82. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "83": {
+    "question": "Florida Driver License Question #83",
+    "options": [
+      "Option A for question 83",
+      "Option B for question 83",
+      "Option C for question 83",
+      "Option D for question 83"
+    ],
+    "correct_answer": "Option C for question 83",
+    "explanation": "This is the explanation for the correct answer to question #83. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "84": {
+    "question": "Florida Driver License Question #84",
+    "options": [
+      "Option A for question 84",
+      "Option B for question 84",
+      "Option C for question 84",
+      "Option D for question 84"
+    ],
+    "correct_answer": "Option C for question 84",
+    "explanation": "This is the explanation for the correct answer to question #84. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "85": {
+    "question": "Florida Driver License Question #85",
+    "options": [
+      "Option A for question 85",
+      "Option B for question 85",
+      "Option C for question 85",
+      "Option D for question 85"
+    ],
+    "correct_answer": "Option C for question 85",
+    "explanation": "This is the explanation for the correct answer to question #85. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "86": {
+    "question": "Florida Driver License Question #86",
+    "options": [
+      "Option A for question 86",
+      "Option B for question 86",
+      "Option C for question 86",
+      "Option D for question 86"
+    ],
+    "correct_answer": "Option C for question 86",
+    "explanation": "This is the explanation for the correct answer to question #86. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "87": {
+    "question": "Florida Driver License Question #87",
+    "options": [
+      "Option A for question 87",
+      "Option B for question 87",
+      "Option C for question 87",
+      "Option D for question 87"
+    ],
+    "correct_answer": "Option C for question 87",
+    "explanation": "This is the explanation for the correct answer to question #87. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "88": {
+    "question": "Florida Driver License Question #88",
+    "options": [
+      "Option A for question 88",
+      "Option B for question 88",
+      "Option C for question 88",
+      "Option D for question 88"
+    ],
+    "correct_answer": "Option C for question 88",
+    "explanation": "This is the explanation for the correct answer to question #88. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "89": {
+    "question": "Florida Driver License Question #89",
+    "options": [
+      "Option A for question 89",
+      "Option B for question 89",
+      "Option C for question 89",
+      "Option D for question 89"
+    ],
+    "correct_answer": "Option C for question 89",
+    "explanation": "This is the explanation for the correct answer to question #89. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "90": {
+    "question": "Florida Driver License Question #90",
+    "options": [
+      "Option A for question 90",
+      "Option B for question 90",
+      "Option C for question 90",
+      "Option D for question 90"
+    ],
+    "correct_answer": "Option C for question 90",
+    "explanation": "This is the explanation for the correct answer to question #90. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "91": {
+    "question": "Florida Driver License Question #91",
+    "options": [
+      "Option A for question 91",
+      "Option B for question 91",
+      "Option C for question 91",
+      "Option D for question 91"
+    ],
+    "correct_answer": "Option C for question 91",
+    "explanation": "This is the explanation for the correct answer to question #91. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "92": {
+    "question": "Florida Driver License Question #92",
+    "options": [
+      "Option A for question 92",
+      "Option B for question 92",
+      "Option C for question 92",
+      "Option D for question 92"
+    ],
+    "correct_answer": "Option C for question 92",
+    "explanation": "This is the explanation for the correct answer to question #92. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "93": {
+    "question": "Florida Driver License Question #93",
+    "options": [
+      "Option A for question 93",
+      "Option B for question 93",
+      "Option C for question 93",
+      "Option D for question 93"
+    ],
+    "correct_answer": "Option C for question 93",
+    "explanation": "This is the explanation for the correct answer to question #93. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "94": {
+    "question": "Florida Driver License Question #94",
+    "options": [
+      "Option A for question 94",
+      "Option B for question 94",
+      "Option C for question 94",
+      "Option D for question 94"
+    ],
+    "correct_answer": "Option C for question 94",
+    "explanation": "This is the explanation for the correct answer to question #94. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "95": {
+    "question": "Florida Driver License Question #95",
+    "options": [
+      "Option A for question 95",
+      "Option B for question 95",
+      "Option C for question 95",
+      "Option D for question 95"
+    ],
+    "correct_answer": "Option C for question 95",
+    "explanation": "This is the explanation for the correct answer to question #95. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "96": {
+    "question": "Florida Driver License Question #96",
+    "options": [
+      "Option A for question 96",
+      "Option B for question 96",
+      "Option C for question 96",
+      "Option D for question 96"
+    ],
+    "correct_answer": "Option C for question 96",
+    "explanation": "This is the explanation for the correct answer to question #96. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "97": {
+    "question": "Florida Driver License Question #97",
+    "options": [
+      "Option A for question 97",
+      "Option B for question 97",
+      "Option C for question 97",
+      "Option D for question 97"
+    ],
+    "correct_answer": "Option C for question 97",
+    "explanation": "This is the explanation for the correct answer to question #97. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "98": {
+    "question": "Florida Driver License Question #98",
+    "options": [
+      "Option A for question 98",
+      "Option B for question 98",
+      "Option C for question 98",
+      "Option D for question 98"
+    ],
+    "correct_answer": "Option C for question 98",
+    "explanation": "This is the explanation for the correct answer to question #98. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "99": {
+    "question": "Florida Driver License Question #99",
+    "options": [
+      "Option A for question 99",
+      "Option B for question 99",
+      "Option C for question 99",
+      "Option D for question 99"
+    ],
+    "correct_answer": "Option C for question 99",
+    "explanation": "This is the explanation for the correct answer to question #99. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "100": {
+    "question": "Florida Driver License Question #100",
+    "options": [
+      "Option A for question 100",
+      "Option B for question 100",
+      "Option C for question 100",
+      "Option D for question 100"
+    ],
+    "correct_answer": "Option C for question 100",
+    "explanation": "This is the explanation for the correct answer to question #100. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "101": {
+    "question": "Florida Driver License Question #101",
+    "options": [
+      "Option A for question 101",
+      "Option B for question 101",
+      "Option C for question 101",
+      "Option D for question 101"
+    ],
+    "correct_answer": "Option C for question 101",
+    "explanation": "This is the explanation for the correct answer to question #101. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "102": {
+    "question": "Florida Driver License Question #102",
+    "options": [
+      "Option A for question 102",
+      "Option B for question 102",
+      "Option C for question 102",
+      "Option D for question 102"
+    ],
+    "correct_answer": "Option C for question 102",
+    "explanation": "This is the explanation for the correct answer to question #102. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "103": {
+    "question": "Florida Driver License Question #103",
+    "options": [
+      "Option A for question 103",
+      "Option B for question 103",
+      "Option C for question 103",
+      "Option D for question 103"
+    ],
+    "correct_answer": "Option C for question 103",
+    "explanation": "This is the explanation for the correct answer to question #103. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "104": {
+    "question": "Florida Driver License Question #104",
+    "options": [
+      "Option A for question 104",
+      "Option B for question 104",
+      "Option C for question 104",
+      "Option D for question 104"
+    ],
+    "correct_answer": "Option C for question 104",
+    "explanation": "This is the explanation for the correct answer to question #104. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "105": {
+    "question": "Florida Driver License Question #105",
+    "options": [
+      "Option A for question 105",
+      "Option B for question 105",
+      "Option C for question 105",
+      "Option D for question 105"
+    ],
+    "correct_answer": "Option C for question 105",
+    "explanation": "This is the explanation for the correct answer to question #105. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "106": {
+    "question": "Florida Driver License Question #106",
+    "options": [
+      "Option A for question 106",
+      "Option B for question 106",
+      "Option C for question 106",
+      "Option D for question 106"
+    ],
+    "correct_answer": "Option C for question 106",
+    "explanation": "This is the explanation for the correct answer to question #106. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "107": {
+    "question": "Florida Driver License Question #107",
+    "options": [
+      "Option A for question 107",
+      "Option B for question 107",
+      "Option C for question 107",
+      "Option D for question 107"
+    ],
+    "correct_answer": "Option C for question 107",
+    "explanation": "This is the explanation for the correct answer to question #107. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "108": {
+    "question": "Florida Driver License Question #108",
+    "options": [
+      "Option A for question 108",
+      "Option B for question 108",
+      "Option C for question 108",
+      "Option D for question 108"
+    ],
+    "correct_answer": "Option C for question 108",
+    "explanation": "This is the explanation for the correct answer to question #108. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "109": {
+    "question": "Florida Driver License Question #109",
+    "options": [
+      "Option A for question 109",
+      "Option B for question 109",
+      "Option C for question 109",
+      "Option D for question 109"
+    ],
+    "correct_answer": "Option C for question 109",
+    "explanation": "This is the explanation for the correct answer to question #109. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "110": {
+    "question": "Florida Driver License Question #110",
+    "options": [
+      "Option A for question 110",
+      "Option B for question 110",
+      "Option C for question 110",
+      "Option D for question 110"
+    ],
+    "correct_answer": "Option C for question 110",
+    "explanation": "This is the explanation for the correct answer to question #110. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "111": {
+    "question": "Florida Driver License Question #111",
+    "options": [
+      "Option A for question 111",
+      "Option B for question 111",
+      "Option C for question 111",
+      "Option D for question 111"
+    ],
+    "correct_answer": "Option C for question 111",
+    "explanation": "This is the explanation for the correct answer to question #111. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "112": {
+    "question": "Florida Driver License Question #112",
+    "options": [
+      "Option A for question 112",
+      "Option B for question 112",
+      "Option C for question 112",
+      "Option D for question 112"
+    ],
+    "correct_answer": "Option C for question 112",
+    "explanation": "This is the explanation for the correct answer to question #112. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "113": {
+    "question": "Florida Driver License Question #113",
+    "options": [
+      "Option A for question 113",
+      "Option B for question 113",
+      "Option C for question 113",
+      "Option D for question 113"
+    ],
+    "correct_answer": "Option C for question 113",
+    "explanation": "This is the explanation for the correct answer to question #113. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "114": {
+    "question": "Florida Driver License Question #114",
+    "options": [
+      "Option A for question 114",
+      "Option B for question 114",
+      "Option C for question 114",
+      "Option D for question 114"
+    ],
+    "correct_answer": "Option C for question 114",
+    "explanation": "This is the explanation for the correct answer to question #114. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "115": {
+    "question": "Florida Driver License Question #115",
+    "options": [
+      "Option A for question 115",
+      "Option B for question 115",
+      "Option C for question 115",
+      "Option D for question 115"
+    ],
+    "correct_answer": "Option C for question 115",
+    "explanation": "This is the explanation for the correct answer to question #115. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "116": {
+    "question": "Florida Driver License Question #116",
+    "options": [
+      "Option A for question 116",
+      "Option B for question 116",
+      "Option C for question 116",
+      "Option D for question 116"
+    ],
+    "correct_answer": "Option C for question 116",
+    "explanation": "This is the explanation for the correct answer to question #116. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "117": {
+    "question": "Florida Driver License Question #117",
+    "options": [
+      "Option A for question 117",
+      "Option B for question 117",
+      "Option C for question 117",
+      "Option D for question 117"
+    ],
+    "correct_answer": "Option C for question 117",
+    "explanation": "This is the explanation for the correct answer to question #117. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "118": {
+    "question": "Florida Driver License Question #118",
+    "options": [
+      "Option A for question 118",
+      "Option B for question 118",
+      "Option C for question 118",
+      "Option D for question 118"
+    ],
+    "correct_answer": "Option C for question 118",
+    "explanation": "This is the explanation for the correct answer to question #118. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "119": {
+    "question": "Florida Driver License Question #119",
+    "options": [
+      "Option A for question 119",
+      "Option B for question 119",
+      "Option C for question 119",
+      "Option D for question 119"
+    ],
+    "correct_answer": "Option C for question 119",
+    "explanation": "This is the explanation for the correct answer to question #119. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "120": {
+    "question": "Florida Driver License Question #120",
+    "options": [
+      "Option A for question 120",
+      "Option B for question 120",
+      "Option C for question 120",
+      "Option D for question 120"
+    ],
+    "correct_answer": "Option C for question 120",
+    "explanation": "This is the explanation for the correct answer to question #120. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "121": {
+    "question": "Florida Driver License Question #121",
+    "options": [
+      "Option A for question 121",
+      "Option B for question 121",
+      "Option C for question 121",
+      "Option D for question 121"
+    ],
+    "correct_answer": "Option C for question 121",
+    "explanation": "This is the explanation for the correct answer to question #121. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "122": {
+    "question": "Florida Driver License Question #122",
+    "options": [
+      "Option A for question 122",
+      "Option B for question 122",
+      "Option C for question 122",
+      "Option D for question 122"
+    ],
+    "correct_answer": "Option C for question 122",
+    "explanation": "This is the explanation for the correct answer to question #122. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "123": {
+    "question": "Florida Driver License Question #123",
+    "options": [
+      "Option A for question 123",
+      "Option B for question 123",
+      "Option C for question 123",
+      "Option D for question 123"
+    ],
+    "correct_answer": "Option C for question 123",
+    "explanation": "This is the explanation for the correct answer to question #123. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "124": {
+    "question": "Florida Driver License Question #124",
+    "options": [
+      "Option A for question 124",
+      "Option B for question 124",
+      "Option C for question 124",
+      "Option D for question 124"
+    ],
+    "correct_answer": "Option C for question 124",
+    "explanation": "This is the explanation for the correct answer to question #124. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "125": {
+    "question": "Florida Driver License Question #125",
+    "options": [
+      "Option A for question 125",
+      "Option B for question 125",
+      "Option C for question 125",
+      "Option D for question 125"
+    ],
+    "correct_answer": "Option C for question 125",
+    "explanation": "This is the explanation for the correct answer to question #125. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "126": {
+    "question": "Florida Driver License Question #126",
+    "options": [
+      "Option A for question 126",
+      "Option B for question 126",
+      "Option C for question 126",
+      "Option D for question 126"
+    ],
+    "correct_answer": "Option C for question 126",
+    "explanation": "This is the explanation for the correct answer to question #126. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "127": {
+    "question": "Florida Driver License Question #127",
+    "options": [
+      "Option A for question 127",
+      "Option B for question 127",
+      "Option C for question 127",
+      "Option D for question 127"
+    ],
+    "correct_answer": "Option C for question 127",
+    "explanation": "This is the explanation for the correct answer to question #127. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "128": {
+    "question": "Florida Driver License Question #128",
+    "options": [
+      "Option A for question 128",
+      "Option B for question 128",
+      "Option C for question 128",
+      "Option D for question 128"
+    ],
+    "correct_answer": "Option C for question 128",
+    "explanation": "This is the explanation for the correct answer to question #128. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "129": {
+    "question": "Florida Driver License Question #129",
+    "options": [
+      "Option A for question 129",
+      "Option B for question 129",
+      "Option C for question 129",
+      "Option D for question 129"
+    ],
+    "correct_answer": "Option C for question 129",
+    "explanation": "This is the explanation for the correct answer to question #129. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "130": {
+    "question": "Florida Driver License Question #130",
+    "options": [
+      "Option A for question 130",
+      "Option B for question 130",
+      "Option C for question 130",
+      "Option D for question 130"
+    ],
+    "correct_answer": "Option C for question 130",
+    "explanation": "This is the explanation for the correct answer to question #130. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "131": {
+    "question": "Florida Driver License Question #131",
+    "options": [
+      "Option A for question 131",
+      "Option B for question 131",
+      "Option C for question 131",
+      "Option D for question 131"
+    ],
+    "correct_answer": "Option C for question 131",
+    "explanation": "This is the explanation for the correct answer to question #131. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "132": {
+    "question": "Florida Driver License Question #132",
+    "options": [
+      "Option A for question 132",
+      "Option B for question 132",
+      "Option C for question 132",
+      "Option D for question 132"
+    ],
+    "correct_answer": "Option C for question 132",
+    "explanation": "This is the explanation for the correct answer to question #132. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "133": {
+    "question": "Florida Driver License Question #133",
+    "options": [
+      "Option A for question 133",
+      "Option B for question 133",
+      "Option C for question 133",
+      "Option D for question 133"
+    ],
+    "correct_answer": "Option C for question 133",
+    "explanation": "This is the explanation for the correct answer to question #133. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "134": {
+    "question": "Florida Driver License Question #134",
+    "options": [
+      "Option A for question 134",
+      "Option B for question 134",
+      "Option C for question 134",
+      "Option D for question 134"
+    ],
+    "correct_answer": "Option C for question 134",
+    "explanation": "This is the explanation for the correct answer to question #134. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "135": {
+    "question": "Florida Driver License Question #135",
+    "options": [
+      "Option A for question 135",
+      "Option B for question 135",
+      "Option C for question 135",
+      "Option D for question 135"
+    ],
+    "correct_answer": "Option C for question 135",
+    "explanation": "This is the explanation for the correct answer to question #135. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "136": {
+    "question": "Florida Driver License Question #136",
+    "options": [
+      "Option A for question 136",
+      "Option B for question 136",
+      "Option C for question 136",
+      "Option D for question 136"
+    ],
+    "correct_answer": "Option C for question 136",
+    "explanation": "This is the explanation for the correct answer to question #136. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "137": {
+    "question": "Florida Driver License Question #137",
+    "options": [
+      "Option A for question 137",
+      "Option B for question 137",
+      "Option C for question 137",
+      "Option D for question 137"
+    ],
+    "correct_answer": "Option C for question 137",
+    "explanation": "This is the explanation for the correct answer to question #137. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "138": {
+    "question": "Florida Driver License Question #138",
+    "options": [
+      "Option A for question 138",
+      "Option B for question 138",
+      "Option C for question 138",
+      "Option D for question 138"
+    ],
+    "correct_answer": "Option C for question 138",
+    "explanation": "This is the explanation for the correct answer to question #138. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "139": {
+    "question": "Florida Driver License Question #139",
+    "options": [
+      "Option A for question 139",
+      "Option B for question 139",
+      "Option C for question 139",
+      "Option D for question 139"
+    ],
+    "correct_answer": "Option C for question 139",
+    "explanation": "This is the explanation for the correct answer to question #139. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "140": {
+    "question": "Florida Driver License Question #140",
+    "options": [
+      "Option A for question 140",
+      "Option B for question 140",
+      "Option C for question 140",
+      "Option D for question 140"
+    ],
+    "correct_answer": "Option C for question 140",
+    "explanation": "This is the explanation for the correct answer to question #140. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "141": {
+    "question": "Florida Driver License Question #141",
+    "options": [
+      "Option A for question 141",
+      "Option B for question 141",
+      "Option C for question 141",
+      "Option D for question 141"
+    ],
+    "correct_answer": "Option C for question 141",
+    "explanation": "This is the explanation for the correct answer to question #141. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "142": {
+    "question": "Florida Driver License Question #142",
+    "options": [
+      "Option A for question 142",
+      "Option B for question 142",
+      "Option C for question 142",
+      "Option D for question 142"
+    ],
+    "correct_answer": "Option C for question 142",
+    "explanation": "This is the explanation for the correct answer to question #142. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "143": {
+    "question": "Florida Driver License Question #143",
+    "options": [
+      "Option A for question 143",
+      "Option B for question 143",
+      "Option C for question 143",
+      "Option D for question 143"
+    ],
+    "correct_answer": "Option C for question 143",
+    "explanation": "This is the explanation for the correct answer to question #143. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "144": {
+    "question": "Florida Driver License Question #144",
+    "options": [
+      "Option A for question 144",
+      "Option B for question 144",
+      "Option C for question 144",
+      "Option D for question 144"
+    ],
+    "correct_answer": "Option C for question 144",
+    "explanation": "This is the explanation for the correct answer to question #144. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "145": {
+    "question": "Florida Driver License Question #145",
+    "options": [
+      "Option A for question 145",
+      "Option B for question 145",
+      "Option C for question 145",
+      "Option D for question 145"
+    ],
+    "correct_answer": "Option C for question 145",
+    "explanation": "This is the explanation for the correct answer to question #145. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "146": {
+    "question": "Florida Driver License Question #146",
+    "options": [
+      "Option A for question 146",
+      "Option B for question 146",
+      "Option C for question 146",
+      "Option D for question 146"
+    ],
+    "correct_answer": "Option C for question 146",
+    "explanation": "This is the explanation for the correct answer to question #146. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "147": {
+    "question": "Florida Driver License Question #147",
+    "options": [
+      "Option A for question 147",
+      "Option B for question 147",
+      "Option C for question 147",
+      "Option D for question 147"
+    ],
+    "correct_answer": "Option C for question 147",
+    "explanation": "This is the explanation for the correct answer to question #147. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "148": {
+    "question": "Florida Driver License Question #148",
+    "options": [
+      "Option A for question 148",
+      "Option B for question 148",
+      "Option C for question 148",
+      "Option D for question 148"
+    ],
+    "correct_answer": "Option C for question 148",
+    "explanation": "This is the explanation for the correct answer to question #148. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "149": {
+    "question": "Florida Driver License Question #149",
+    "options": [
+      "Option A for question 149",
+      "Option B for question 149",
+      "Option C for question 149",
+      "Option D for question 149"
+    ],
+    "correct_answer": "Option C for question 149",
+    "explanation": "This is the explanation for the correct answer to question #149. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "150": {
+    "question": "Florida Driver License Question #150",
+    "options": [
+      "Option A for question 150",
+      "Option B for question 150",
+      "Option C for question 150",
+      "Option D for question 150"
+    ],
+    "correct_answer": "Option C for question 150",
+    "explanation": "This is the explanation for the correct answer to question #150. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "151": {
+    "question": "Florida Driver License Question #151",
+    "options": [
+      "Option A for question 151",
+      "Option B for question 151",
+      "Option C for question 151",
+      "Option D for question 151"
+    ],
+    "correct_answer": "Option C for question 151",
+    "explanation": "This is the explanation for the correct answer to question #151. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "152": {
+    "question": "Florida Driver License Question #152",
+    "options": [
+      "Option A for question 152",
+      "Option B for question 152",
+      "Option C for question 152",
+      "Option D for question 152"
+    ],
+    "correct_answer": "Option C for question 152",
+    "explanation": "This is the explanation for the correct answer to question #152. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "153": {
+    "question": "Florida Driver License Question #153",
+    "options": [
+      "Option A for question 153",
+      "Option B for question 153",
+      "Option C for question 153",
+      "Option D for question 153"
+    ],
+    "correct_answer": "Option C for question 153",
+    "explanation": "This is the explanation for the correct answer to question #153. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "154": {
+    "question": "Florida Driver License Question #154",
+    "options": [
+      "Option A for question 154",
+      "Option B for question 154",
+      "Option C for question 154",
+      "Option D for question 154"
+    ],
+    "correct_answer": "Option C for question 154",
+    "explanation": "This is the explanation for the correct answer to question #154. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "155": {
+    "question": "Florida Driver License Question #155",
+    "options": [
+      "Option A for question 155",
+      "Option B for question 155",
+      "Option C for question 155",
+      "Option D for question 155"
+    ],
+    "correct_answer": "Option C for question 155",
+    "explanation": "This is the explanation for the correct answer to question #155. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "156": {
+    "question": "Florida Driver License Question #156",
+    "options": [
+      "Option A for question 156",
+      "Option B for question 156",
+      "Option C for question 156",
+      "Option D for question 156"
+    ],
+    "correct_answer": "Option C for question 156",
+    "explanation": "This is the explanation for the correct answer to question #156. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "157": {
+    "question": "Florida Driver License Question #157",
+    "options": [
+      "Option A for question 157",
+      "Option B for question 157",
+      "Option C for question 157",
+      "Option D for question 157"
+    ],
+    "correct_answer": "Option C for question 157",
+    "explanation": "This is the explanation for the correct answer to question #157. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "158": {
+    "question": "Florida Driver License Question #158",
+    "options": [
+      "Option A for question 158",
+      "Option B for question 158",
+      "Option C for question 158",
+      "Option D for question 158"
+    ],
+    "correct_answer": "Option C for question 158",
+    "explanation": "This is the explanation for the correct answer to question #158. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "159": {
+    "question": "Florida Driver License Question #159",
+    "options": [
+      "Option A for question 159",
+      "Option B for question 159",
+      "Option C for question 159",
+      "Option D for question 159"
+    ],
+    "correct_answer": "Option C for question 159",
+    "explanation": "This is the explanation for the correct answer to question #159. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "160": {
+    "question": "Florida Driver License Question #160",
+    "options": [
+      "Option A for question 160",
+      "Option B for question 160",
+      "Option C for question 160",
+      "Option D for question 160"
+    ],
+    "correct_answer": "Option C for question 160",
+    "explanation": "This is the explanation for the correct answer to question #160. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "161": {
+    "question": "Florida Driver License Question #161",
+    "options": [
+      "Option A for question 161",
+      "Option B for question 161",
+      "Option C for question 161",
+      "Option D for question 161"
+    ],
+    "correct_answer": "Option C for question 161",
+    "explanation": "This is the explanation for the correct answer to question #161. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "162": {
+    "question": "Florida Driver License Question #162",
+    "options": [
+      "Option A for question 162",
+      "Option B for question 162",
+      "Option C for question 162",
+      "Option D for question 162"
+    ],
+    "correct_answer": "Option C for question 162",
+    "explanation": "This is the explanation for the correct answer to question #162. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "163": {
+    "question": "Florida Driver License Question #163",
+    "options": [
+      "Option A for question 163",
+      "Option B for question 163",
+      "Option C for question 163",
+      "Option D for question 163"
+    ],
+    "correct_answer": "Option C for question 163",
+    "explanation": "This is the explanation for the correct answer to question #163. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "164": {
+    "question": "Florida Driver License Question #164",
+    "options": [
+      "Option A for question 164",
+      "Option B for question 164",
+      "Option C for question 164",
+      "Option D for question 164"
+    ],
+    "correct_answer": "Option C for question 164",
+    "explanation": "This is the explanation for the correct answer to question #164. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "165": {
+    "question": "Florida Driver License Question #165",
+    "options": [
+      "Option A for question 165",
+      "Option B for question 165",
+      "Option C for question 165",
+      "Option D for question 165"
+    ],
+    "correct_answer": "Option C for question 165",
+    "explanation": "This is the explanation for the correct answer to question #165. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "166": {
+    "question": "Florida Driver License Question #166",
+    "options": [
+      "Option A for question 166",
+      "Option B for question 166",
+      "Option C for question 166",
+      "Option D for question 166"
+    ],
+    "correct_answer": "Option C for question 166",
+    "explanation": "This is the explanation for the correct answer to question #166. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "167": {
+    "question": "Florida Driver License Question #167",
+    "options": [
+      "Option A for question 167",
+      "Option B for question 167",
+      "Option C for question 167",
+      "Option D for question 167"
+    ],
+    "correct_answer": "Option C for question 167",
+    "explanation": "This is the explanation for the correct answer to question #167. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "168": {
+    "question": "Florida Driver License Question #168",
+    "options": [
+      "Option A for question 168",
+      "Option B for question 168",
+      "Option C for question 168",
+      "Option D for question 168"
+    ],
+    "correct_answer": "Option C for question 168",
+    "explanation": "This is the explanation for the correct answer to question #168. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "169": {
+    "question": "Florida Driver License Question #169",
+    "options": [
+      "Option A for question 169",
+      "Option B for question 169",
+      "Option C for question 169",
+      "Option D for question 169"
+    ],
+    "correct_answer": "Option C for question 169",
+    "explanation": "This is the explanation for the correct answer to question #169. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "170": {
+    "question": "Florida Driver License Question #170",
+    "options": [
+      "Option A for question 170",
+      "Option B for question 170",
+      "Option C for question 170",
+      "Option D for question 170"
+    ],
+    "correct_answer": "Option C for question 170",
+    "explanation": "This is the explanation for the correct answer to question #170. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "171": {
+    "question": "Florida Driver License Question #171",
+    "options": [
+      "Option A for question 171",
+      "Option B for question 171",
+      "Option C for question 171",
+      "Option D for question 171"
+    ],
+    "correct_answer": "Option C for question 171",
+    "explanation": "This is the explanation for the correct answer to question #171. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "172": {
+    "question": "Florida Driver License Question #172",
+    "options": [
+      "Option A for question 172",
+      "Option B for question 172",
+      "Option C for question 172",
+      "Option D for question 172"
+    ],
+    "correct_answer": "Option C for question 172",
+    "explanation": "This is the explanation for the correct answer to question #172. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "173": {
+    "question": "Florida Driver License Question #173",
+    "options": [
+      "Option A for question 173",
+      "Option B for question 173",
+      "Option C for question 173",
+      "Option D for question 173"
+    ],
+    "correct_answer": "Option C for question 173",
+    "explanation": "This is the explanation for the correct answer to question #173. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "174": {
+    "question": "Florida Driver License Question #174",
+    "options": [
+      "Option A for question 174",
+      "Option B for question 174",
+      "Option C for question 174",
+      "Option D for question 174"
+    ],
+    "correct_answer": "Option C for question 174",
+    "explanation": "This is the explanation for the correct answer to question #174. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "175": {
+    "question": "Florida Driver License Question #175",
+    "options": [
+      "Option A for question 175",
+      "Option B for question 175",
+      "Option C for question 175",
+      "Option D for question 175"
+    ],
+    "correct_answer": "Option C for question 175",
+    "explanation": "This is the explanation for the correct answer to question #175. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "176": {
+    "question": "Florida Driver License Question #176",
+    "options": [
+      "Option A for question 176",
+      "Option B for question 176",
+      "Option C for question 176",
+      "Option D for question 176"
+    ],
+    "correct_answer": "Option C for question 176",
+    "explanation": "This is the explanation for the correct answer to question #176. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "177": {
+    "question": "Florida Driver License Question #177",
+    "options": [
+      "Option A for question 177",
+      "Option B for question 177",
+      "Option C for question 177",
+      "Option D for question 177"
+    ],
+    "correct_answer": "Option C for question 177",
+    "explanation": "This is the explanation for the correct answer to question #177. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "178": {
+    "question": "Florida Driver License Question #178",
+    "options": [
+      "Option A for question 178",
+      "Option B for question 178",
+      "Option C for question 178",
+      "Option D for question 178"
+    ],
+    "correct_answer": "Option C for question 178",
+    "explanation": "This is the explanation for the correct answer to question #178. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "179": {
+    "question": "Florida Driver License Question #179",
+    "options": [
+      "Option A for question 179",
+      "Option B for question 179",
+      "Option C for question 179",
+      "Option D for question 179"
+    ],
+    "correct_answer": "Option C for question 179",
+    "explanation": "This is the explanation for the correct answer to question #179. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "180": {
+    "question": "Florida Driver License Question #180",
+    "options": [
+      "Option A for question 180",
+      "Option B for question 180",
+      "Option C for question 180",
+      "Option D for question 180"
+    ],
+    "correct_answer": "Option C for question 180",
+    "explanation": "This is the explanation for the correct answer to question #180. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "181": {
+    "question": "Florida Driver License Question #181",
+    "options": [
+      "Option A for question 181",
+      "Option B for question 181",
+      "Option C for question 181",
+      "Option D for question 181"
+    ],
+    "correct_answer": "Option C for question 181",
+    "explanation": "This is the explanation for the correct answer to question #181. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "182": {
+    "question": "Florida Driver License Question #182",
+    "options": [
+      "Option A for question 182",
+      "Option B for question 182",
+      "Option C for question 182",
+      "Option D for question 182"
+    ],
+    "correct_answer": "Option C for question 182",
+    "explanation": "This is the explanation for the correct answer to question #182. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "183": {
+    "question": "Florida Driver License Question #183",
+    "options": [
+      "Option A for question 183",
+      "Option B for question 183",
+      "Option C for question 183",
+      "Option D for question 183"
+    ],
+    "correct_answer": "Option C for question 183",
+    "explanation": "This is the explanation for the correct answer to question #183. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "184": {
+    "question": "Florida Driver License Question #184",
+    "options": [
+      "Option A for question 184",
+      "Option B for question 184",
+      "Option C for question 184",
+      "Option D for question 184"
+    ],
+    "correct_answer": "Option C for question 184",
+    "explanation": "This is the explanation for the correct answer to question #184. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "185": {
+    "question": "Florida Driver License Question #185",
+    "options": [
+      "Option A for question 185",
+      "Option B for question 185",
+      "Option C for question 185",
+      "Option D for question 185"
+    ],
+    "correct_answer": "Option C for question 185",
+    "explanation": "This is the explanation for the correct answer to question #185. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "186": {
+    "question": "Florida Driver License Question #186",
+    "options": [
+      "Option A for question 186",
+      "Option B for question 186",
+      "Option C for question 186",
+      "Option D for question 186"
+    ],
+    "correct_answer": "Option C for question 186",
+    "explanation": "This is the explanation for the correct answer to question #186. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "187": {
+    "question": "Florida Driver License Question #187",
+    "options": [
+      "Option A for question 187",
+      "Option B for question 187",
+      "Option C for question 187",
+      "Option D for question 187"
+    ],
+    "correct_answer": "Option C for question 187",
+    "explanation": "This is the explanation for the correct answer to question #187. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "188": {
+    "question": "Florida Driver License Question #188",
+    "options": [
+      "Option A for question 188",
+      "Option B for question 188",
+      "Option C for question 188",
+      "Option D for question 188"
+    ],
+    "correct_answer": "Option C for question 188",
+    "explanation": "This is the explanation for the correct answer to question #188. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "189": {
+    "question": "Florida Driver License Question #189",
+    "options": [
+      "Option A for question 189",
+      "Option B for question 189",
+      "Option C for question 189",
+      "Option D for question 189"
+    ],
+    "correct_answer": "Option C for question 189",
+    "explanation": "This is the explanation for the correct answer to question #189. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "190": {
+    "question": "Florida Driver License Question #190",
+    "options": [
+      "Option A for question 190",
+      "Option B for question 190",
+      "Option C for question 190",
+      "Option D for question 190"
+    ],
+    "correct_answer": "Option C for question 190",
+    "explanation": "This is the explanation for the correct answer to question #190. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "191": {
+    "question": "Florida Driver License Question #191",
+    "options": [
+      "Option A for question 191",
+      "Option B for question 191",
+      "Option C for question 191",
+      "Option D for question 191"
+    ],
+    "correct_answer": "Option C for question 191",
+    "explanation": "This is the explanation for the correct answer to question #191. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "192": {
+    "question": "Florida Driver License Question #192",
+    "options": [
+      "Option A for question 192",
+      "Option B for question 192",
+      "Option C for question 192",
+      "Option D for question 192"
+    ],
+    "correct_answer": "Option C for question 192",
+    "explanation": "This is the explanation for the correct answer to question #192. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "193": {
+    "question": "Florida Driver License Question #193",
+    "options": [
+      "Option A for question 193",
+      "Option B for question 193",
+      "Option C for question 193",
+      "Option D for question 193"
+    ],
+    "correct_answer": "Option C for question 193",
+    "explanation": "This is the explanation for the correct answer to question #193. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "194": {
+    "question": "Florida Driver License Question #194",
+    "options": [
+      "Option A for question 194",
+      "Option B for question 194",
+      "Option C for question 194",
+      "Option D for question 194"
+    ],
+    "correct_answer": "Option C for question 194",
+    "explanation": "This is the explanation for the correct answer to question #194. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "195": {
+    "question": "Florida Driver License Question #195",
+    "options": [
+      "Option A for question 195",
+      "Option B for question 195",
+      "Option C for question 195",
+      "Option D for question 195"
+    ],
+    "correct_answer": "Option C for question 195",
+    "explanation": "This is the explanation for the correct answer to question #195. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "196": {
+    "question": "Florida Driver License Question #196",
+    "options": [
+      "Option A for question 196",
+      "Option B for question 196",
+      "Option C for question 196",
+      "Option D for question 196"
+    ],
+    "correct_answer": "Option C for question 196",
+    "explanation": "This is the explanation for the correct answer to question #196. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "197": {
+    "question": "Florida Driver License Question #197",
+    "options": [
+      "Option A for question 197",
+      "Option B for question 197",
+      "Option C for question 197",
+      "Option D for question 197"
+    ],
+    "correct_answer": "Option C for question 197",
+    "explanation": "This is the explanation for the correct answer to question #197. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "198": {
+    "question": "Florida Driver License Question #198",
+    "options": [
+      "Option A for question 198",
+      "Option B for question 198",
+      "Option C for question 198",
+      "Option D for question 198"
+    ],
+    "correct_answer": "Option C for question 198",
+    "explanation": "This is the explanation for the correct answer to question #198. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "199": {
+    "question": "Florida Driver License Question #199",
+    "options": [
+      "Option A for question 199",
+      "Option B for question 199",
+      "Option C for question 199",
+      "Option D for question 199"
+    ],
+    "correct_answer": "Option C for question 199",
+    "explanation": "This is the explanation for the correct answer to question #199. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  },
+  "200": {
+    "question": "Florida Driver License Question #200",
+    "options": [
+      "Option A for question 200",
+      "Option B for question 200",
+      "Option C for question 200",
+      "Option D for question 200"
+    ],
+    "correct_answer": "Option C for question 200",
+    "explanation": "This is the explanation for the correct answer to question #200. The Florida Driver License handbook states that Option C is correct because it follows the proper driving procedures and safety guidelines established by Florida traffic laws."
+  }
+}
